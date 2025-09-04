@@ -1,0 +1,473 @@
+{
+  "Name": "Cystic fibrosis",
+  "DiseaseID__c": "GARD:0006233",
+  "id": 6233,
+  "encodedName": "cystic-fibrosis",
+  "IsDeleted": false,
+  "Disease_Name_Full__c": "Cystic fibrosis",
+  "URL_old__c": "https://rarediseases.info.nih.gov/diseases/6233/index",
+  "USA_Estimate__c": "200,000",
+  "Disease_Type__c": "Rare",
+  "World_Estimate__c": "800,000 to 5,000,000",
+  "Disease_Categories__c": null,
+  "FDA_Approved_Drugs__c": 6,
+  "Description_Source__c": "MONDO:0009061",
+  "Disease_Description__c": "A rare, genetic pulmonary disorder characterized by sweat, thick mucus secretions causing multisystem disease, chronic infections of the lungs, bulky diarrhea and short stature.",
+  "Disease__c": "Cystic fibrosis",
+  "GARD_Name__c": "Cystic fibrosis",
+  "GARD_Synonym__c": "CF; cystic fibrosis lung disease, modifier of; mucoviscidosis; pseudomonas aeruginosa, susceptibility to chronic infection by, in cystic fibrosis",
+  "Genetic_Testing__c": 1,
+  "Cause_Description__c": "Genetic changes in a gene called cystic fibrosis transmembrane regulator (CFTR) cause CF. More than 900 genetic changes in this gene have been found. This gene provides the instructions for the CFTR protein. In normal cells, the CFTR protein acts as a channel that allows cells to release chloride and other ions. But in people with CF, this protein is defective and the cells do not release the chloride. The result is an improper salt balance in the cells which leads to thick, sticky mucus. When mucus clogs the lungs, it can make breathing very difficult, and causes bacteria to get stuck in the airways, resulting in inflammation and infections. Over time, mucus buildup and infections can lead to permanent lung damage, including the formation of scar tissue (fibrosis) and cysts in the lungs. Mucus can also block the digestive tract and pancreas, leading to digestive problems.",
+  "Curated_Disease_Description_Source__c": "GARD:0006233",
+  "Curated_Disease_Description__c": "Cystic fibrosis (CF) is a genetic disorder that causes mucus to build up and damage organs in the body, particularly the lungs and pancreas. Signs and symptoms may include salty-tasting skin; persistent coughing; frequent lung infections; wheezing or shortness of breath; poor growth; weight loss; greasy, bulky stools; difficulty with bowel movements; and in males, infertility. Over time, mucus buildup and infections can lead to permanent lung damage, including the formation of scar tissue (fibrosis) and cysts in the lungs. CF is caused by genetic changes in the CFTR gene and inheritance is autosomal recessive.",
+  "Curated_USA_Estimate_Source__c": null,
+  "Curated_USA_Estimate__c": "200,000",
+  "Age_at_Onset_Snippet_Text__c": "at any time in life",
+  "SourceID__c": "ORPHA:586",
+  "Validated__c": false,
+  "Deprecated__c": "No",
+  "Disease_Concept_Type__c": "Rare Disease Entity",
+  "MONDO_ID__c": "MONDO:0009061",
+  "ORPHANET_ID__c": "ORPHA:586",
+  "Replaced_By_ID__c": null,
+  "Display_Spanish_Disease_Name__c": "Fibrosis quística",
+  "Spanish_Description_Source__c": "ORPHA:586",
+  "Spanish_Description_URL__c": null,
+  "Spanish_Description__c": "Es un trastorno pulmonar de origen genético poco frecuente, caracterizado por sudoración salada y secreciones mucosas espesas que resultan en enfermedad multisistémica, infecciones pulmonares crónicas, diarrea voluminosa y talla baja.",
+  "Spanish_Disease_Name__c": "Fibrosis quística",
+  "Spanish_GARD_Synonym__c": "FQ; Mucoviscidosis",
+  "Category_Linearization__c": "ORPHA:97955",
+  "icd10_id__c": null,
+  "mesh_id__c": null,
+  "omim_id__c": null,
+  "snomed_id__c": null,
+  "umls_id__c": null,
+  "GARD_Disease__c": [
+    {
+      "Curated_Disease_Description__c": "Cystic fibrosis (CF) is a genetic disorder that causes mucus to build up and damage organs in the body, particularly the lungs and pancreas. Signs and symptoms may include salty-tasting skin; persistent coughing; frequent lung infections; wheezing or shortness of breath; poor growth; weight loss; greasy, bulky stools; difficulty with bowel movements; and in males, infertility. Over time, mucus buildup and infections can lead to permanent lung damage, including the formation of scar tissue (fibrosis) and cysts in the lungs. CF is caused by genetic changes in the CFTR gene and inheritance is autosomal recessive.",
+      "Curated_Disease_Description_Source__c": "GARD:0006233",
+      "GARD_Synonym__c": "CF; cystic fibrosis lung disease, modifier of; mucoviscidosis; pseudomonas aeruginosa, susceptibility to chronic infection by, in cystic fibrosis",
+      "Name": "Cystic fibrosis",
+      "Curated_USA_Estimate__c": "200,000",
+      "estimateUsa": "200,000"
+    }
+  ],
+  "Organization_Supported_Diseases__c": [
+    {
+      "Account_Name__c": "Claire’s Place Foundation",
+      "Website__c": "https://clairesplacefoundation.org/"
+    },
+    {
+      "Account_Name__c": "Alianza Iberoamericana de Enfermedades Raras o Poco Frecuentes",
+      "Website__c": "https://aliber.org/web/"
+    },
+    {
+      "Account_Name__c": "Federación Mexicana de Enfermedades Raras (FEMEXER)",
+      "Website__c": "http://www.femexer.org/"
+    },
+    {
+      "Account_Name__c": "Federación Española de Enfermedades Raras",
+      "Website__c": "https://enfermedades-raras.org/"
+    },
+    {
+      "Account_Name__c": "Federación Colombiana de Enfermedades Raras",
+      "Website__c": "http://www.fecoer.org"
+    },
+    {
+      "Account_Name__c": "Federación Argentina de Enfermedades Poco Frecuentes",
+      "Website__c": "https://fadepof.org.ar/"
+    },
+    {
+      "Account_Name__c": "Asociación Todos Unidos Enfermedades Raras Uruguay",
+      "Website__c": "https://atueru.org.uy/"
+    },
+    {
+      "Account_Name__c": "Federación Española de la Fibrosis Quística",
+      "Website__c": "https://fibrosisquistica.org/"
+    },
+    {
+      "Account_Name__c": "Asociación Argentina de Lucha contra la Enfermedad Fibroquística del Páncreas",
+      "Website__c": "https://fipan.org.ar/"
+    },
+    {
+      "Account_Name__c": "Asociación Mexicana de Fibrosis Quística",
+      "Website__c": "https://fibrosisquistica.org.mx/~h4u3f3d9/"
+    },
+    {
+      "Account_Name__c": "Comisión Cubana de F.Q."
+    },
+    {
+      "Account_Name__c": "Asociación Costarricense de FQ"
+    },
+    {
+      "Account_Name__c": "Corporación Chilena para la Fibrosis Quística del Páncreas"
+    },
+    {
+      "Account_Name__c": "Cystic Fibrosis Foundation",
+      "Website__c": "https://www.cff.org/"
+    },
+    {
+      "Account_Name__c": "Cystic Fibrosis Research Institute",
+      "Website__c": "https://cfri.org/"
+    },
+    {
+      "Account_Name__c": "American Lung Association",
+      "Website__c": "https://www.lung.org/"
+    },
+    {
+      "Account_Name__c": "Cure Rare Disease",
+      "Website__c": "https://www.cureraredisease.org"
+    },
+    {
+      "Account_Name__c": "Boomer Esiason Foundation",
+      "Website__c": "https://www.esiason.org/"
+    }
+  ],
+  "GARD_Disease_Tag__c": [
+    {
+      "Tag_Name__c": "Genetics",
+      "Tag_Category__c": "Cause;Disease Category;Specialist",
+      "category_description": "Genetic diseases affect the DNA, or genetic instructions, which directs how tissues, organs, and body systems function.",
+      "curated_tag_name": "Genetic diseases"
+    },
+    {
+      "Tag_Name__c": "Pulmonology",
+      "Tag_Category__c": "Disease Category;Specialist",
+      "category_description": "Respiratory diseases affect the nose, mouth, throat, voice box, windpipe, lungs, or blood vessels.",
+      "curated_tag_name": "Respiratory diseases"
+    },
+    {
+      "Tag_Name__c": "Gastroenterology",
+      "Tag_Category__c": "Disease Category;Specialist",
+      "category_description": "Gastrointestinal diseases, or digestive diseases, affect the esophagus, stomach, small intestine, large intestine, liver, gallbladder, or pancreas.",
+      "curated_tag_name": "Gastrointestinal diseases"
+    },
+    {
+      "Tag_Name__c": "Urologist",
+      "Tag_Category__c": "Specialist"
+    },
+    {
+      "Tag_Name__c": "Infertility",
+      "Tag_Category__c": "Account",
+      "curated_tag_name": "Infertility"
+    },
+    {
+      "Tag_Name__c": "Pediatrics",
+      "Tag_Category__c": "Specialist"
+    }
+  ],
+  "Age_At_Onset__c": [
+    {
+      "Age_At_Onset__c": "All ages",
+      "Provided_By__c": "ORPHA:586"
+    }
+  ],
+  "Diagnosis__c": [
+    {
+      "Type__c": "NEWBORN",
+      "Category__c": "Core",
+      "Curie__c": "http://newbornscreeningcodes.nlm.nih.gov/nb/sc/condition/CF"
+    },
+    {
+      "Type__c": "GTR",
+      "Curie__c": "MEDGEN:C0010674"
+    }
+  ],
+  "External_Identifier_Disease__c": [
+    {
+      "URL__c": "https://raresource.nih.gov/diseases/filter/0006233",
+      "Source__c": "RareSource"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/books/NBK1250",
+      "Source__c": "Gene Review",
+      "Xref_ID__c": "NBK1250"
+    },
+    {
+      "URL__c": "https://www.ebi.ac.uk/ols4/ontologies/doid/classes?obo_id=DOID%3A1485",
+      "Source__c": "MONDO:0009061",
+      "Xref_ID__c": "DOID:1485"
+    },
+    {
+      "URL__c": "https://uts.nlm.nih.gov/uts/umls/concept/C0010674",
+      "Source__c": "MONDO:0009061",
+      "Xref_ID__c": "UMLS:C0010674"
+    },
+    {
+      "URL__c": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C2975",
+      "Source__c": "MONDO:0009061",
+      "Xref_ID__c": "NCIT:C2975"
+    },
+    {
+      "URL__c": "https://www.orpha.net/en/disease/detail/586",
+      "Source__c": "MONDO:0009061",
+      "Xref_ID__c": "ORPHA:586"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/medgen/?term=41393",
+      "Source__c": "MONDO:0009061",
+      "Xref_ID__c": "MEDGEN:41393"
+    },
+    {
+      "URL__c": "https://icd.codes/icd10cm/E84",
+      "Source__c": "MONDO:0009061",
+      "Xref_ID__c": "ICD10CM:E84"
+    },
+    {
+      "URL__c": "https://browser.ihtsdotools.org/?perspective=full&conceptId1=190905008",
+      "Source__c": "MONDO:0009061",
+      "Xref_ID__c": "SCTID:190905008"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/mesh/C003550",
+      "Source__c": "MONDO:0009061",
+      "Xref_ID__c": "MESH:D003550"
+    },
+    {
+      "URL__c": "https://www.omim.org/entry/219700",
+      "Source__c": "MONDO:0009061",
+      "Xref_ID__c": "OMIM:219700"
+    }
+  ],
+  "GARD_Disease_Gene__c": [
+    {
+      "GeneSymbol__c": "EDNRA",
+      "GHR_URL__c": "https://www.ncbi.nlm.nih.gov/gene/1909",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "CEACAM6",
+      "GHR_URL__c": "http://purl.obolibrary.org/obo/OGG_3000004680",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "SLC11A1",
+      "GHR_URL__c": "https://www.ncbi.nlm.nih.gov/gene/6556",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "KCNN4",
+      "GHR_URL__c": "http://purl.obolibrary.org/obo/OGG_3000003783",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "SLC9A3",
+      "GHR_URL__c": "http://purl.obolibrary.org/obo/OGG_3000006550",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "GCLC",
+      "GHR_URL__c": "http://purl.obolibrary.org/obo/OGG_3000002729",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "CFTR",
+      "GHR_URL__c": "https://medlineplus.gov/genetics/gene/cftr",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": true
+    },
+    {
+      "GeneSymbol__c": "CEACAM3",
+      "GHR_URL__c": "http://purl.obolibrary.org/obo/OGG_3000001084",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "STX1A",
+      "GHR_URL__c": "https://www.ncbi.nlm.nih.gov/gene/6804",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "GSTM3",
+      "GHR_URL__c": "http://purl.obolibrary.org/obo/OGG_3000002947",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "CLCA4",
+      "GHR_URL__c": "http://www.orpha.net/ORDO/Orphanet_353921",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "HFE",
+      "GHR_URL__c": "https://medlineplus.gov/genetics/gene/hfe",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "DCTN4",
+      "GHR_URL__c": "http://purl.obolibrary.org/obo/OGG_3000051164",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "MIF",
+      "GHR_URL__c": "https://www.ncbi.nlm.nih.gov/gene/4282",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "SLC26A9",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "SLC6A14",
+      "GHR_URL__c": "http://purl.obolibrary.org/obo/OGG_3000011254",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "HMOX1",
+      "GHR_URL__c": "http://purl.obolibrary.org/obo/OGG_3000003162",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "SERPINA1",
+      "GHR_URL__c": "https://medlineplus.gov/genetics/gene/serpina1",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    },
+    {
+      "GeneSymbol__c": "TGFB1",
+      "GHR_URL__c": "https://medlineplus.gov/genetics/gene/tgfb1",
+      "Gene_Type__c": "protein-coding",
+      "Causal_Gene__c": false
+    }
+  ],
+  "Inheritance__c": [
+    "Autosomal recessive"
+  ],
+  "GARD_Disease_Feature__c": [
+    {
+      "Provided_By__c": "ORPHA:586",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "Impaired ability to absorb one or more nutrients from the intestine.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/app/browse/term/HP:0002024",
+        "HPO_Synonym__c": "Intestinal malabsorption; Malabsorption",
+        "HPO_Name__c": "Malabsorption",
+        "Feature_System__c": "Digestive System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:586",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "An increased susceptibility to respiratory infections as manifested by a history of recurrent respiratory infections.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/app/browse/term/HP:0002205",
+        "HPO_Synonym__c": "Frequent respiratory infections; Multiple respiratory infections; Recurrent respiratory infections; respiratory infections, recurrent; Susceptibility to respiratory infections",
+        "HPO_Name__c": "Recurrent respiratory infections",
+        "Feature_System__c": "Respiratory system; Immune System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:586",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "Failure of the immune system to protect the body adequately from infection, due to the absence or insufficiency of some component process or substance.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/app/browse/term/HP:0002721",
+        "HPO_Synonym__c": "Decreased immune function; Immune deficiency",
+        "HPO_Name__c": "Immunodeficiency",
+        "Feature_System__c": "Immune System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:586",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "Impaired function of the exocrine pancreas associated with a reduced ability to digest foods because of lack of digestive enzymes.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/app/browse/term/HP:0001738",
+        "HPO_Synonym__c": "Inability to properly digest food due to lack of pancreatic digestive enzymes",
+        "HPO_Name__c": "Exocrine pancreatic insufficiency",
+        "Feature_System__c": "Digestive System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:586",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "Progressive destruction of the small-to-medium bile ducts of the intrahepatic biliary tree, which leads to progressive cholestasis and often end-stage liver disease.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/app/browse/term/HP:0002613",
+        "HPO_Name__c": "Biliary cirrhosis",
+        "Feature_System__c": "Digestive System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:586",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Abnormally increased size of the liver.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/app/browse/term/HP:0002240",
+        "HPO_Synonym__c": "Enlarged liver",
+        "HPO_Name__c": "Hepatomegaly",
+        "Feature_System__c": "Digestive System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:586",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormally decreased level of immunoglobulin in blood.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/app/browse/term/HP:0004313",
+        "HPO_Synonym__c": "Decreased antibody level in blood; Decreased immunoglobulin level; Decreased serum immunoglobulin; Hypogammaglobulinemia; Immunoglobulin deficiency; Reduced immunoglobulin levels",
+        "HPO_Name__c": "Decreased circulating antibody level",
+        "Feature_System__c": "Immune System; Blood and Blood-Forming Tissue",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:586",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "Replacement of normal lung tissues by fibroblasts and collagen.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/app/browse/term/HP:0002206",
+        "HPO_Name__c": "Pulmonary fibrosis",
+        "Feature_System__c": "Respiratory system",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    }
+  ],
+  "tags": {
+    "Cause": [
+      "Genetics"
+    ],
+    "Disease Category": [
+      "Genetics",
+      "Pulmonology",
+      "Gastroenterology"
+    ],
+    "Specialist": [
+      "Genetics",
+      "Pulmonology",
+      "Gastroenterology",
+      "Urologist",
+      "Pediatrics"
+    ],
+    "Account": [
+      "Infertility"
+    ]
+  },
+  "synonyms": [
+    "CF",
+    " cystic fibrosis lung disease, modifier of",
+    " mucoviscidosis",
+    " pseudomonas aeruginosa, susceptibility to chronic infection by, in cystic fibrosis"
+  ],
+  "spanishId": 12467,
+  "spanishName": "fibrosis-quistica"
+}

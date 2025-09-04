@@ -1,0 +1,46 @@
+# [Patient Organizations Supporting Leigh Syndrome and/or Related Conditions]
+
+## [About Leigh Syndrome](https://aboutleighsyndrome.com/)
+* Who They Serve: People With Leigh syndrome
+* Helpful Links: [Research Registry](https://aboutleighsyndrome.com/patient-registry/)
+* Country: United States
+
+## [Alex The Leukodystrophy Charity](https://www.alextlc.org/)
+* Who They Serve: People With Leigh syndrome
+* Helpful Links: ---
+* Country: United Kingdom
+
+## [Cure Mito Foundation](https://www.curemito.org/)
+* Who They Serve: People With Leigh syndrome
+* Helpful Links: [Research Registry](https://www.curemito.org/leighsyndromeregistry)
+* Country: United States
+
+## [CureARS](https://www.curears.org/)
+* Who They Serve: People With Leigh syndrome
+* Helpful Links: ---
+* Country: United States
+
+## [Metabolic Support UK](https://www.metabolicsupportuk.org/)
+* Who They Serve: People With Leigh syndrome
+* Helpful Links: [List of Experts](https://www.metabolicsupportuk.org/metabolic-centres/)
+* Country: United Kingdom
+
+## [Muscular Dystrophy Association](https://www.mda.org/)
+* Who They Serve: People With Leigh syndrome
+* Helpful Links: [List of Experts](https://www.mda.org/care/mda-care-centers)
+* Country: United States
+
+## [People Against Leigh Syndrome](https://www.peopleagainstleighs.org/)
+* Who They Serve: People With Leigh syndrome
+* Helpful Links: [Research Registry](https://www.peopleagainstleighs.org/registry)
+* Country: United States
+
+## [MitoAction](https://www.mitoaction.org/)
+* Who They Serve: People With Mitochondrial diseases
+* Helpful Links: [List of Experts](https://www.mitoaction.org/doctors/)
+* Country: United States
+
+## [United Mitochondrial Disease Foundation](https://www.umdf.org/)
+* Who They Serve: People With Mitochondrial diseases
+Helpful Links: [List of Experts](https://www.umdf.org/find-a-doctor/); [Research Registry](https://www.umdf.org/mitoshare-registry/)
+Country: United States

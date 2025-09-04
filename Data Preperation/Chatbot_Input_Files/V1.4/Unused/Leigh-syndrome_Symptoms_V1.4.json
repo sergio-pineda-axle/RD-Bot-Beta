@@ -1,0 +1,1031 @@
+{
+    "disease_name": "Leigh Syndrome",
+    "disease_description": "Leigh syndrome is a severe neurological disorder that can begin at any time in life. Symptoms vary among affected individuals and can affect multiple body systems.",
+    "onset_information": "Symptoms of this disease may start to appear at any time in life. This includes prenatal, newborn, infant, child, adolescent, adult, and older adult stages.",
+    "body_systems_impact": "Symptoms related to Leigh syndrome may affect different systems of the body.",
+    "chatbot_guidance": {
+        "symptom_list_intro": "The following list provides symptoms associated with Leigh syndrome. Each symptom entry includes a description, synonyms, affected body systems, and frequency among confirmed cases of Leigh syndrome. This is not an exhaustive list\u2014some symptoms may not be listed.",
+        "prioritization_rules": [
+            "If a user asks about a disease's symptoms, provide those with higher 'Frequency' values first and limit the list to 10, unless requested to provide more.",
+            "If a user asks about a specific body system, refer to the 'Body System Category(-ies)' values and match accordingly. Provide higher frequency symptoms first and limit the list to 10, unless requested otherwise.",
+            "If a user asks about common versus uncommon symptoms, refer to the 'Frequency' value to determine relevance."
+        ],
+        "individual_experience_disclaimer": "The types of symptoms experienced, and their intensity, may vary among people with this disease. Your experience may be different from others. Consult your healthcare team for more information."
+    },
+    "age_at_onset": [
+        {
+            "category": "Prenatal",
+            "description": "Before Birth"
+        },
+        {
+            "category": "Newborn",
+            "description": "Birth-4 weeks"
+        },
+        {
+            "category": "Infant",
+            "description": "1-23 months"
+        },
+        {
+            "category": "Child",
+            "description": "2-11 years"
+        },
+        {
+            "category": "Adolescent",
+            "description": "12-18 years"
+        },
+        {
+            "category": "Adult",
+            "description": "19-65 years"
+        },
+        {
+            "category": "Older Adult",
+            "description": "65+ years"
+        }
+    ],
+    "body_systems": {
+        "blood_and_blood_forming_tissue": "The blood and blood-forming tissue includes plasma, red blood cells, white blood cells, platelets, and bone marrow.",
+        "cardiovascular_system": "The cardiovascular system is made up of the heart and blood vessels, including the arteries, veins, and capillaries.",
+        "digestive_system": "The digestive system is made up of the esophagus, stomach, intestines, liver, pancreas, and gallbladder.",
+        "immune_system": "The immune system is a complex network of cells, tissues, and organs that together help the body fight infections and other diseases.",
+        "musculoskeletal_system": "The musculoskeletal system is made up of the bones, muscles, and joints.",
+        "nervous_system": "The nervous system is made up of the brain, spinal cord, and nerves.",
+        "respiratory_system": "The respiratory system is made up of the lungs and the nose, mouth, throat, voice box, windpipe, diaphragm, and muscles of the chest wall.",
+        "skin_system": "The skin or integumentary system is made up of skin, hair, nails, sweat glands, and oil glands."
+    },
+    "symptoms": [
+        {
+            "name": "Blood and Blood-Forming Tissue",
+            "synonyms": [],
+            "description": "",
+            "body_systems": [],
+            "frequency": ""
+        },
+        {
+            "name": "Cardiovascular System",
+            "synonyms": [],
+            "description": "",
+            "body_systems": [],
+            "frequency": ""
+        },
+        {
+            "name": "Digestive System",
+            "synonyms": [],
+            "description": "",
+            "body_systems": [],
+            "frequency": ""
+        },
+        {
+            "name": "Immune System",
+            "synonyms": [],
+            "description": "",
+            "body_systems": [],
+            "frequency": ""
+        },
+        {
+            "name": "Musculoskeletal System",
+            "synonyms": [],
+            "description": "",
+            "body_systems": [],
+            "frequency": ""
+        },
+        {
+            "name": "Nervous System",
+            "synonyms": [],
+            "description": "",
+            "body_systems": [],
+            "frequency": ""
+        },
+        {
+            "name": "Respiratory System",
+            "synonyms": [],
+            "description": "",
+            "body_systems": [],
+            "frequency": ""
+        },
+        {
+            "name": "Skin System",
+            "synonyms": [],
+            "description": "",
+            "body_systems": [],
+            "frequency": ""
+        },
+        {
+            "name": "Renal tubular dysfunction",
+            "synonyms": [
+                "Abnormal function of filtrating structures in kidney",
+                "Renal tubular defect"
+            ],
+            "description": "Abnormal function of the renal tubule. The basic functional unit of the kidney, the nephron, consists of a renal corpuscle attached to a renal tubule, with roughly 0.8 to 1.5 nephrons per adult kidney. The functions of the renal tubule include reabsorption of water, electrolytes, glucose, and amino acids and secretion of substances such as uric acid.",
+            "body_systems": [
+                "genitourinary system"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Optic atrophy",
+            "synonyms": [
+                "Optic nerve atrophy",
+                "Optic-nerve degeneration"
+            ],
+            "description": "Atrophy of the optic nerve. Optic atrophy results from the death of the retinal ganglion cell axons that comprise the optic nerve and manifesting as a pale optic nerve on fundoscopy.",
+            "body_systems": [
+                "eye"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Spasticity",
+            "synonyms": [
+                "Involuntary muscle stiffness, contraction, or spasm",
+                "Muscle spasticity",
+                "Muscular spasticity"
+            ],
+            "description": "A motor disorder characterized by a velocity-dependent increase in tonic stretch reflexes with increased muscle tone, exaggerated (hyperexcitable) tendon reflexes.",
+            "body_systems": [
+                "nervous system",
+                "musculoskeletal system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Spastic diplegia",
+            "synonyms": [
+                "Spastic diparesis",
+                "Spastic diplegic"
+            ],
+            "description": "Spasticity (neuromuscular hypertonia) primarily in the muscles of the legs, hips, and pelvis.",
+            "body_systems": [
+                "nervous system",
+                "musculoskeletal system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Cerebellar atrophy",
+            "synonyms": [
+                "Atrophic cerebellum",
+                "Degeneration of cerebellum"
+            ],
+            "description": "Cerebellar atrophy is defined as a cerebellum with initially normal structures, in a posterior fossa with normal size, which displays enlarged fissures (interfolial spaces) in comparison to the foliae secondary to loss of tissue. Cerebellar atrophy implies irreversible loss of tissue and result from an ongoing progressive disease until a final stage is reached or a single injury, e.g. an intoxication or infectious event.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Dystonia",
+            "synonyms": [
+                "Dystonic movements"
+            ],
+            "description": "An abnormally increased muscular tone that causes fixed abnormal postures. There is a slow, intermittent twisting motion that leads to exaggerated turning and posture of the extremities and trunk.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Failure to thrive",
+            "synonyms": [
+                "Faltering weight",
+                "Postnatal failure to thrive",
+                "Weight faltering"
+            ],
+            "description": "Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm.",
+            "body_systems": [
+                "Growth"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Intrauterine growth retardation",
+            "synonyms": [
+                "In utero growth retardation",
+                "Intrauterine growth failure",
+                "Intrauterine growth restriction",
+                "Intrauterine growth retardation, IUGR",
+                "Intrauterine retardation",
+                "IUGR",
+                "Prenatal growth deficiency",
+                "Prenatal growth failure",
+                "Prenatal growth retardation",
+                "Prenatal onset growth retardation",
+                "Prenatal-onset growth retardation",
+                "Small for gestational age infant"
+            ],
+            "description": "An abnormal restriction of fetal growth with fetal weight below the tenth percentile for gestational age.",
+            "body_systems": [
+                "Growth"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Ventricular septal defect",
+            "synonyms": [
+                "Hole in heart wall separating two lower heart chambers",
+                "Ventricular septal defects",
+                "Ventriculoseptal defect",
+                "VSD"
+            ],
+            "description": "A hole between the two bottom chambers (ventricles) of the heart. The defect is centered around the most superior aspect of the ventricular septum.",
+            "body_systems": [
+                "cardiovascular system"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Hypertrophic cardiomyopathy",
+            "synonyms": [
+                "Cardiomyopathy, hypertrophic",
+                "Enlarged and thickened heart muscle",
+                "HCM"
+            ],
+            "description": "Hypertrophic cardiomyopathy (HCM) is defined by the presence of increased ventricular wall thickness or mass in the absence of loading conditions (hypertension, valve disease) sufficient to cause the observed abnormality.",
+            "body_systems": [
+                "cardiovascular system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Abnormality of extrapyramidal motor function",
+            "synonyms": [
+                "Extrapyramidal dysfunction",
+                "Extrapyramidal signs",
+                "Extrapyramidal symptoms",
+                "Extrapyramidal syndrome",
+                "Extrapyramidal tract signs"
+            ],
+            "description": "A neurological condition related to lesions of the basal ganglia leading to typical abnormalities including akinesia (inability to initiate changes in activity and perform volitional movements rapidly and easily), muscular rigidity (continuous contraction of muscles with constant resistance to passive movement), chorea (widespread arrhythmic movements of a forcible, rapid, jerky, and restless nature), athetosis (inability to sustain the muscles of the fingers, toes, or other group of muscles in a fixed position), and akathisia (inability to remain motionless).",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Hypoplasia of the corpus callosum",
+            "synonyms": [
+                "Corpus callosum hypoplasia",
+                "Hypoplasia of corpus callosum",
+                "Hypoplastic corpus callosum",
+                "Underdevelopment of part of brain called corpus callosum"
+            ],
+            "description": "Underdevelopment of the corpus callosum.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Gliosis",
+            "synonyms": [
+                "Cerebral gliosis",
+                "Excess astrocytes in brain"
+            ],
+            "description": "Gliosis is the focal proliferation of glial cells in the central nervous system.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Leukodystrophy",
+            "synonyms": [
+                "Degeneration of white matter of brain"
+            ],
+            "description": "Leukodystrophy refers to deterioration of white matter of the brain resulting from degeneration of myelin sheaths in the CNS. Their basic defect is directly related to the synthesis and maintenance of myelin membranes. Symmetric white matter involvement at MRI is a typical finding in patients with leukodystrophies.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Sensory axonal neuropathy",
+            "synonyms": [
+                "Axonal sensory neuropathy"
+            ],
+            "description": "An axonal neuropathy of peripheral sensory nerves.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Involuntary movements",
+            "synonyms": [
+                "Involuntary movements",
+                "Involuntary muscle contractions"
+            ],
+            "description": "Involuntary contractions of muscle leading to involuntary movements of extremities, neck, trunk, or face.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Diffuse spongiform leukoencephalopathy",
+            "synonyms": [
+                "Not specified"
+            ],
+            "description": "Not specified",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Severe viral infection",
+            "synonyms": [
+                "Not specified"
+            ],
+            "description": "An unusually severe viral infection.",
+            "body_systems": [
+                "immune system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Abnormality of movement",
+            "synonyms": [
+                "Abnormality of movement",
+                "Movement disorder",
+                "Unusual movement"
+            ],
+            "description": "An abnormality of movement with a neurological basis characterized by changes in coordination and speed of voluntary movements.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Very frequent (80-99%)"
+        },
+        {
+            "name": "Neuronal loss in basal ganglia",
+            "synonyms": [
+                "Not specified"
+            ],
+            "description": "A reduction in the number of nerve cells in the basal ganglia.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Macrotia",
+            "synonyms": [
+                "Large ears",
+                "Large pinnae"
+            ],
+            "description": "Median longitudinal ear length greater than two standard deviations above the mean and median ear width greater than two standard deviations above the mean (objective); or, apparent increase in length and width of the pinna (subjective).",
+            "body_systems": [
+                "ear"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Ophthalmoplegia",
+            "synonyms": [
+                "Eye muscle paralysis",
+                "Paralysis of extraocular eye movement"
+            ],
+            "description": "Paralysis of one or more extraocular muscles that are responsible for eye movements.",
+            "body_systems": [
+                "eye"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Nystagmus",
+            "synonyms": [
+                "Involuntary, rapid, rhythmic eye movements"
+            ],
+            "description": "Rhythmic, involuntary oscillations of one or both eyes related to abnormality in fixation, conjugate gaze, or vestibular mechanisms.",
+            "body_systems": [
+                "eye"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Eczema",
+            "synonyms": [
+                "Eczema"
+            ],
+            "description": "Eczema is a form of dermatitis. The term eczema is broadly applied to a range of persistent skin conditions and can be related to a number of underlying conditions. Manifestations of eczema can include dryness and recurring skin rashes with redness, skin edema, itching and dryness, crusting, flaking, blistering, cracking, oozing, or bleeding.",
+            "body_systems": [
+                "immune system",
+                "integument"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Agenesis of corpus callosum",
+            "synonyms": [
+                "Absence of corpus callosum",
+                "Absent corpus callosum",
+                "Agenesis of the corpus callosum",
+                "Callosal agenesis",
+                "Corpus callosum agenesis",
+                "Dysplastic or absent corpus callosum"
+            ],
+            "description": "Absence of the corpus callosum as a result of the failure of the corpus callosum to develop, which can be the result of a failure in any one of the multiple steps of callosal development including cellular proliferation and migration, axonal growth or glial patterning at the midline.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Growth delay",
+            "synonyms": [
+                "Delayed growth",
+                "Growth deficiency",
+                "Growth delay",
+                "Growth failure",
+                "Growth retardation",
+                "Poor growth",
+                "Retarded growth"
+            ],
+            "description": "A deficiency or slowing down of growth pre- and postnatally.",
+            "body_systems": [
+                "Growth"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Congestive heart failure",
+            "synonyms": [
+                "Cardiac failure",
+                "Cardiac failures",
+                "Cardiac insufficiency",
+                "CHF",
+                "Chronic heart failure",
+                "Heart failure"
+            ],
+            "description": "The presence of an abnormality of cardiac function that is responsible for the failure of the heart to pump blood at a rate that is commensurate with the needs of the tissues or a state in which abnormally elevated filling pressures are required for the heart to do so. Heart failure is frequently related to a defect in myocardial contraction.",
+            "body_systems": [
+                "cardiovascular system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Anemia",
+            "synonyms": [
+                "Anaemia",
+                "Low number of red blood cells or hemoglobin"
+            ],
+            "description": "A reduction in erythrocytes volume or hemoglobin concentration.",
+            "body_systems": [
+                "blood and blood-forming tissues"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Abnormal facial shape",
+            "synonyms": [
+                "Abnormal facial shape",
+                "Abnormal morphology of the face",
+                "Distinctive facies",
+                "Dysmorphic facial features",
+                "Dysmorphic facies",
+                "Facial dysmorphism",
+                "Unusual facial appearance",
+                "Unusual facies"
+            ],
+            "description": "An abnormal morphology (form) of the face or its components.",
+            "body_systems": [
+                "head or neck"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Dysphagia",
+            "synonyms": [
+                "Difficulty swallowing",
+                "Poor swallowing",
+                "Swallowing difficulties",
+                "Swallowing difficulty"
+            ],
+            "description": "Difficulty in swallowing.",
+            "body_systems": [
+                "nervous system",
+                "digestive system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Chorea",
+            "synonyms": [
+                "Choreic movements",
+                "Choreiform movements"
+            ],
+            "description": "Chorea (Greek for 'dance') refers to widespread arrhythmic involuntary movements of a forcible, jerky and restless fashion. It is a random-appearing sequence of one or more discrete involuntary movements or movement fragments. Movements appear random because of variability in timing, duration or location. Each movement may have a distinct start and end. However, movements may be strung together and thus may appear to flow randomly from one muscle group to another. Chorea can involve the trunk, neck, face, tongue, and extremities.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Status epilepticus",
+            "synonyms": [
+                "Prolonged seizure",
+                "Repeated seizure without recovery",
+                "Repeated seizures without recovery between them"
+            ],
+            "description": "Status epilepticus is a type of prolonged seizure resulting either from the failure of the mechanisms responsible for seizure termination or from the initiation of mechanisms which lead to abnormally prolonged seizures (after time point t1). It is a condition that can have long-term consequences (after time point t2), including neuronal death, neuronal injury, and alteration of neuronal networks, depending on the type and duration of seizures.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Distal muscle weakness",
+            "synonyms": [
+                "Distal limb muscle weakness",
+                "Distal limb weakness",
+                "Distal muscular weakness",
+                "Distal paresis",
+                "Muscle weakness, distal",
+                "Muscle weakness, distal limbs, due to neuronopathy",
+                "Weakness of distal muscles",
+                "Weakness of outermost muscles"
+            ],
+            "description": "Reduced strength of the musculature of the distal extremities.",
+            "body_systems": [
+                "musculoskeletal system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Increased CSF lactate",
+            "synonyms": [
+                "Hyperlactatorachia",
+                "Increased cerebrospinal fluid lactate",
+                "Increased CSF lactic acid"
+            ],
+            "description": "Increased concentration of lactate in the cerebrospinal fluid.",
+            "body_systems": [
+                "nervous system",
+                "metabolism/homeostasis"
+            ],
+            "frequency": "Very frequent (80-99%)"
+        },
+        {
+            "name": "Psychomotor retardation",
+            "synonyms": [
+                "Motormental retardation",
+                "Psychomotor impairment",
+                "Psychomotor slowing"
+            ],
+            "description": "Not specified",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Encephalomalacia",
+            "synonyms": [
+                "Cerebral softening"
+            ],
+            "description": "Encephalomalacia is the softening or loss of brain tissue after cerebral infarction, cerebral ischemia, infection, craniocerebral trauma, or other injury.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Nephrotic syndrome",
+            "synonyms": [
+                "Nephrosis"
+            ],
+            "description": "Nephrotic syndrome is a collection of findings resulting from glomerular dysfunction with an increase in glomerular capillary wall permeability associated with pronounced proteinuria. Nephrotic syndrome refers to the constellation of clinical findings that result from severe renal loss of protein, with Proteinuria and hypoalbuminemia, edema, and hyperlipidemia.",
+            "body_systems": [
+                "genitourinary system"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Ptosis",
+            "synonyms": [
+                "Blepharoptosis",
+                "Drooping upper eyelid",
+                "Eyelid ptosis"
+            ],
+            "description": "The upper eyelid margin is positioned 3 mm or more lower than usual and covers the superior portion of the iris (objective); or, the upper lid margin obscures at least part of the pupil (subjective).",
+            "body_systems": [
+                "eye"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Abnormality of the skeletal system",
+            "synonyms": [
+                "Abnormality of the skeletal system",
+                "Skeletal abnormalities",
+                "Skeletal anomalies"
+            ],
+            "description": "An abnormality of the skeletal system.",
+            "body_systems": [
+                "musculoskeletal system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Ataxia",
+            "synonyms": [
+                "Cerebellar ataxia"
+            ],
+            "description": "Cerebellar ataxia refers to ataxia due to dysfunction of the cerebellum. This causes a variety of elementary neurological deficits including asynergy (lack of coordination between muscles, limbs and joints), dysmetria (lack of ability to judge distances that can lead to under- or overshoot in grasping movements), and dysdiadochokinesia (inability to perform rapid movements requiring antagonizing muscle groups to be switched on and off repeatedly).",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Choreoathetosis",
+            "synonyms": [
+                "Choreoathetoid movements"
+            ],
+            "description": "Involuntary movements characterized by both athetosis (inability to sustain muscles in a fixed position) and chorea (widespread jerky arrhythmic movements).",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Hepatic failure",
+            "synonyms": [
+                "Liver failure"
+            ],
+            "description": "Not specified",
+            "body_systems": [
+                "digestive system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Neutropenia",
+            "synonyms": [
+                "Low blood neutrophil count",
+                "Low neutrophil count",
+                "Peripheral neutropenia"
+            ],
+            "description": "An abnormally low number of neutrophils in the peripheral blood.",
+            "body_systems": [
+                "immune system",
+                "blood and blood-forming tissues"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Progressive neurologic deterioration",
+            "synonyms": [
+                "Neurologic deterioration",
+                "Neurologic deterioration, progressive",
+                "Progressive mental deterioration",
+                "Progressive neurodegeneration",
+                "Worsening neurological symptoms"
+            ],
+            "description": "Not specified",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Hyperkinetic movements",
+            "synonyms": [
+                "Hyperkinesia",
+                "Hyperkinesis",
+                "Muscle spasms"
+            ],
+            "description": "Motor hyperactivity with excessive movement of muscles of the body as a whole.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Olivopontocerebellar atrophy",
+            "synonyms": [
+                "Olivopontocerebellar degeneration"
+            ],
+            "description": "Neuronal degeneration in the cerebellum, pontine nuclei, and inferior olivary nucleus.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Respiratory failure",
+            "synonyms": [
+                "Respiratory failure"
+            ],
+            "description": "A severe form of respiratory insufficiency characterized by inadequate gas exchange such that the levels of oxygen or carbon dioxide cannot be maintained within normal limits.",
+            "body_systems": [
+                "respiratory system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Myopathy",
+            "synonyms": [
+                "Muscle tissue disease",
+                "Myopathic changes"
+            ],
+            "description": "A disorder of muscle unrelated to impairment of innervation or neuromuscular junction.",
+            "body_systems": [
+                "musculoskeletal system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Peripheral neuropathy",
+            "synonyms": [
+                "Peripheral nerve damage",
+                "Peripheral neuritis"
+            ],
+            "description": "Peripheral neuropathy is a general term for any disorder of the peripheral nervous system. The main clinical features used to classify peripheral neuropathy are distribution, type (mainly demyelinating versus mainly axonal), duration, and course.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Frontal hirsutism",
+            "synonyms": [
+                "Hairy forehead",
+                "Hirsute forehead"
+            ],
+            "description": "Excessive amount of hair growth on forehead.",
+            "body_systems": [
+                "head or neck",
+                "integument"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Feeding difficulties",
+            "synonyms": [
+                "Feeding difficulties",
+                "Feeding problems",
+                "Poor feeding"
+            ],
+            "description": "Impaired ability to eat related to problems gathering food and getting ready to suck, chew, or swallow it.",
+            "body_systems": [
+                "digestive system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Infantile spasms",
+            "synonyms": [
+                "Not specified"
+            ],
+            "description": "Infantile spasms represent a subset of \\\"epileptic spasms\\\". Infantile Spasms are epileptic spasms starting in the first year of life (infancy).",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Abnormal dentate nucleus morphology",
+            "synonyms": [
+                "Abnormality of the dentate nucleus"
+            ],
+            "description": "An abnormality of the dentate nucleus.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "High forehead",
+            "synonyms": [
+                "High forehead"
+            ],
+            "description": "An abnormally increased height of the forehead.",
+            "body_systems": [
+                "head or neck"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Sensorineural hearing impairment",
+            "synonyms": [
+                "Hearing loss, sensorineural",
+                "Sensorineural deafness",
+                "Sensorineural hearing loss"
+            ],
+            "description": "A type of hearing impairment in one or both ears related to an abnormal functionality of the cochlear nerve.",
+            "body_systems": [
+                "ear"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Cataract",
+            "synonyms": [
+                "Cataracts",
+                "Clouding of the lens of the eye",
+                "Cloudy lens",
+                "Lens opacities",
+                "Lens opacity"
+            ],
+            "description": "A cataract is an opacity or clouding that develops in the crystalline lens of the eye or in its capsule.",
+            "body_systems": [
+                "eye"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Abnormality of the optic nerve",
+            "synonyms": [
+                "optic nerve abnormalities",
+                "Optic nerve issue"
+            ],
+            "description": "Abnormality of the optic nerve.",
+            "body_systems": [
+                "eye"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Hypertrichosis",
+            "synonyms": [
+                "Not specified"
+            ],
+            "description": "Hypertrichosis is increased hair growth that is abnormal in quantity or location.",
+            "body_systems": [
+                "integument"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Seizure",
+            "synonyms": [
+                "Epileptic seizure",
+                "Seizures"
+            ],
+            "description": "A seizure is an intermittent abnormality of nervous system physiology characterised by a transient occurrence of signs and/or symptoms due to abnormal excessive or synchronous neuronal activity in the brain.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Muscle weakness",
+            "synonyms": [
+                "Muscle weakness",
+                "Muscular weakness"
+            ],
+            "description": "Reduced strength of muscles.",
+            "body_systems": [
+                "musculoskeletal system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Alopecia",
+            "synonyms": [
+                "Hair loss"
+            ],
+            "description": "A noncongenital process of hair loss, which may progress to partial or complete baldness.",
+            "body_systems": [
+                "integument"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Athetosis",
+            "synonyms": [
+                "Athetoid movements",
+                "Involuntary writhing movements",
+                "Involuntary writhing movements in fingers, hands, toes, and feet"
+            ],
+            "description": "A slow, continuous, involuntary writhing movement that prevents maintenance of a stable posture. Athetosis involves continuous smooth movements that appear random and are not composed of recognizable sub-movements or movement fragments. In contrast to chorea, in athetosis, the same regions of the body are repeatedly involved. Athetosis may worsen with attempts at movement of posture, but athetosis can also occur at rest.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Developmental regression",
+            "synonyms": [
+                "Loss of developmental milestones",
+                "Mental deterioration in childhood",
+                "Neurodevelopmental regression",
+                "Psychomotor regression",
+                "Psychomotor regression beginning in infancy",
+                "Psychomotor regression in infants",
+                "Psychomotor regression, progressive"
+            ],
+            "description": "Loss of developmental skills, as manifested by loss of developmental milestones.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Upper motor neuron dysfunction",
+            "synonyms": [
+                "Corticospinal tract dysfunction",
+                "Pyramidal tract dysfunction"
+            ],
+            "description": "A functional anomaly of the upper motor neuron. The upper motor neurons are neurons of the primary motor cortex which project to the brainstem and spinal chord via the corticonuclear, corticobulbar and corticospinal (pyramidal) tracts. They are involved in control of voluntary movements. Dysfunction leads to weakness, impairment of fine motor movements, spasticity, hyperreflexia and abnormal pyramidal signs.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        },
+        {
+            "name": "Gastrointestinal dysmotility",
+            "synonyms": [
+                "GI dysmotility"
+            ],
+            "description": "Abnormal intestinal contractions, such as spasms and intestinal paralysis, related to the loss of the ability of the gut to coordinate muscular activity because of endogenous or exogenous causes.",
+            "body_systems": [
+                "digestive system"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Abnormal pattern of respiration",
+            "synonyms": [
+                "Abnormal pattern of respiration",
+                "Abnormal respiratory patterns",
+                "Unusual breathing patterns"
+            ],
+            "description": "An anomaly of the rhythm or depth of breathing.",
+            "body_systems": [
+                "respiratory system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Multiple joint contractures",
+            "synonyms": [
+                "Not specified"
+            ],
+            "description": "Not specified",
+            "body_systems": [
+                "musculoskeletal system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Skeletal muscle atrophy",
+            "synonyms": [
+                "Amyotrophy",
+                "Amyotrophy involving the extremities",
+                "Muscle atrophy",
+                "Muscle atrophy, neurogenic",
+                "Muscle degeneration",
+                "Muscle hypotrophy",
+                "Muscle wasting",
+                "Muscular atrophy",
+                "Neurogenic muscle atrophy",
+                "Neurogenic muscle atrophy, especially in the lower limbs",
+                "Neurogenic muscular atrophy"
+            ],
+            "description": "The presence of skeletal muscular atrophy (which is also known as amyotrophy).",
+            "body_systems": [
+                "musculoskeletal system"
+            ],
+            "frequency": "Occasional (5-29%)"
+        },
+        {
+            "name": "Infantile muscular hypotonia",
+            "synonyms": [
+                "Decreased muscle tone in infant",
+                "Hypotonia early",
+                "Hypotonia in infancy",
+                "Hypotonia, early",
+                "Infantile hypotonia"
+            ],
+            "description": "Muscular hypotonia (abnormally low muscle tone) manifesting in infancy.",
+            "body_systems": [
+                "musculoskeletal system"
+            ],
+            "frequency": "Very frequent (80-99%)"
+        },
+        {
+            "name": "Dyskinesia",
+            "synonyms": [
+                "Disorder of involuntary muscle movements",
+                "Dyskinesis"
+            ],
+            "description": "A movement disorder which consists of effects including diminished voluntary movements and the presence of involuntary movements.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Uncommon (<1-4%)"
+        },
+        {
+            "name": "Brain imaging abnormality",
+            "synonyms": [
+                "Abnormal brain imaging"
+            ],
+            "description": "An anomaly of metabolism or structure of the brain identified by imaging.",
+            "body_systems": [
+                "nervous system"
+            ],
+            "frequency": "Frequent (30-79%)"
+        }
+    ]
+}

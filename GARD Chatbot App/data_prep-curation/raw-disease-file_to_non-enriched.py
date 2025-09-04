@@ -1,0 +1,406 @@
+### Script to convert raw GARD disease JSON files into a non-enriched JSONL format to be embedded
+
+import json
+import os
+import re
+from utils.filtering import filter_synonyms
+from urllib.parse import quote_plus
+
+# ======= Individual line generators =======
+
+def generate_disease_summary_line(raw, disease_name, numeric_id):
+    return {
+        "id": f"{numeric_id}_summary",
+        "category": "disease_summary",
+        "content": raw.get("Curated_Disease_Description__c", "").strip(),
+        "disease_name": disease_name,
+        "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+        "orpha_id": raw.get("ORPHANET_ID__c", "").strip(),
+        "gard_id": raw.get("DiseaseID__c", "").strip(),
+        "mondo_id": raw.get("MONDO_ID__c", "").strip()
+    }
+
+def generate_population_estimate_line(raw, disease_name, numeric_id):
+    estimate = (raw.get("Curated_USA_Estimate__c") or "").strip()
+    if not estimate:
+        return None
+
+    return {
+        "id": f"{numeric_id}_population_estimate",
+        "category": "population_estimate",
+        "content": f"Fewer than {estimate} people in the U.S. have this disease.",
+        "disease_name": disease_name,
+        "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+        "orpha_id": raw.get("ORPHANET_ID__c", "").strip(),
+        "gard_id": raw.get("DiseaseID__c", "").strip(),
+        "mondo_id": raw.get("MONDO_ID__c", "").strip()
+    }
+
+def generate_disease_category_lines(raw, disease_name, numeric_id):
+    output_lines = []
+    disease_name = raw.get("GARD_Name__c", "").strip()
+    orpha_id = raw.get("ORPHANET_ID__c", "").strip()
+    gard_id = raw.get("DiseaseID__c", "").strip()
+    mondo_id = raw.get("MONDO_ID__c", "").strip()
+
+    raw_categories = raw.get("tags", {}).get("Disease Category", [])
+    norm_map = filter_synonyms.get("disease_category", {})
+
+    for category in raw_categories:
+        original = category.strip()
+        normalized = norm_map.get(original.lower(), original)
+
+        id_fragment = normalized.lower().replace(" ", "-")
+        line = {
+            "id": f"{numeric_id}_disease-category_{id_fragment}",
+            "category": "disease_category",
+            "disease_category": normalized,
+            "content": f"{disease_name} is considered a {normalized.lower()} disease.",
+            "disease_name": disease_name,
+            "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+            "orpha_id": orpha_id,
+            "gard_id": gard_id,
+            "mondo_id": mondo_id
+        }
+        output_lines.append(line)
+
+    return output_lines
+
+AGE_RANGE_MAP = {
+    "Prenatal": "Before Birth",
+    "Newborn": "Birth–4 weeks",
+    "Infant": "1–23 months",
+    "Child": "2–11 years",
+    "Adolescent": "12–18 years",
+    "Adult": "19–65 years",
+    "Older Adult": "65+ years"
+}
+
+def generate_age_at_onset_line(raw, disease_name, numeric_id):
+    age_labels = raw.get("Age_At_Onset__c", [])
+    disease_name = raw.get("GARD_Name__c", "").strip()
+
+    # Case: No values
+    if not age_labels:
+        return {
+            "id": f"{numeric_id}_age-at-onset",
+            "category": "age_at_onset",
+            "content": (
+                "GARD does not currently have information on the age at onset for this condition."
+            ),
+            "disease_name": disease_name,
+            "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+            "orpha_id": raw.get("ORPHANET_ID__c", "").strip(),
+            "gard_id": raw.get("DiseaseID__c", "").strip(),
+            "mondo_id": raw.get("MONDO_ID__c", "").strip()
+        }
+
+    # Build list of readable phrases
+    seen = set()
+    age_parts = []
+    for entry in age_labels:
+        label = entry.get("Age_At_Onset__c", "").strip()
+        if not label or label in seen:
+            continue
+        seen.add(label)
+        readable = AGE_RANGE_MAP.get(label, "")
+        part = f"{label} ({readable})" if readable else label
+        age_parts.append(part)
+
+    # Format joined age statement
+    if len(age_parts) == 1:
+        age_sentence = f"For this condition, symptoms may start to appear as a {age_parts[0]}."
+    else:
+        age_range = ", ".join(age_parts[:-1]) + f", and {age_parts[-1]}" if len(age_parts) > 2 else " and ".join(age_parts)
+        age_sentence = f"For this condition, symptoms may start to appear during: {age_range}."
+
+    return {
+        "id": f"{numeric_id}_age-at-onset",
+        "category": "age_at_onset",
+        "content": f"{"The age symptoms may begin to appear differs between diseases. Symptoms may begin in a single age range, or during several age ranges. Knowing when symptoms may have appeared can help medical providers find the correct diagnosis."}\n\n{age_sentence}",
+        "disease_name": disease_name,
+        "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+        "orpha_id": raw.get("ORPHANET_ID__c", "").strip(),
+        "gard_id": raw.get("DiseaseID__c", "").strip(),
+        "mondo_id": raw.get("MONDO_ID__c", "").strip()
+    }
+
+def generate_cause_lines(raw, disease_name, numeric_id):
+    output_lines = []
+    disease_name = raw.get("GARD_Name__c", "").strip()
+    orpha_id = raw.get("ORPHANET_ID__c", "").strip()
+    gard_id = raw.get("DiseaseID__c", "").strip()
+    mondo_id = raw.get("MONDO_ID__c", "").strip()
+
+    causes = raw.get("tags", {}).get("Cause", [])
+
+    # From tags
+    for cause in causes:
+        normalized = cause.strip().lower()
+        if not normalized:
+            continue
+
+        # Custom mappings based on tags
+        if normalized == "genetics":
+            cause_type = "Genetic Mutations"
+            content = f"{disease_name} may be caused by genetic mutations."
+        elif normalized == "inborn errors of metabolism":
+            cause_type = "Disruption in Metabolism"
+            content = f"{disease_name} may be caused by disruption in metabolism."
+        elif normalized == "mitochondrial":
+            cause_type = "Impaired Mitochondrial Function"
+            content = f"{disease_name} may be caused by impaired mitochondrial function."
+        else:
+            cause_type = cause.strip()
+            content = f"{disease_name} is associated with {normalized}."
+
+        id_fragment = normalized.replace(" ", "-")
+        output_lines.append({
+            "id": f"{numeric_id}_cause_{id_fragment}",
+            "category": "cause",
+            "cause_type": cause_type,
+            "content": content,
+            "disease_name": disease_name,
+            "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+            "orpha_id": orpha_id,
+            "gard_id": gard_id,
+            "mondo_id": mondo_id
+        })
+
+    # From causal genes
+    gene_symbols = [
+        entry.get("GeneSymbol__c", "").strip()
+        for entry in raw.get("GARD_Disease_Gene__c", [])
+        if entry.get("Causal_Gene__c") is True and entry.get("GeneSymbol__c")
+    ]
+
+    if gene_symbols:
+        genes = ", ".join(gene_symbols[:-1]) + f", and {gene_symbols[-1]}" if len(gene_symbols) > 2 else " and ".join(gene_symbols)
+        output_lines.append({
+            "id": f"{numeric_id}_cause_causal-genes",
+            "category": "cause",
+            "cause_type": "Causal Genes",
+            "content": f"{disease_name} is caused by genetic mutations in the following known gene(s): {genes}. Learn more about these genes by searching them on the National Library of Medicine (NLM)[https://medlineplus.gov/genetics/gene/]. Given these known genetic mutation(s), you may want to ask your health care team if genetic testing is right for you. Genetic tests are laboratory tests that use samples of blood, saliva, or other tissues to help identify changes in genes, chromosomes, or proteins. Genetic testing can help confirm or rule out a suspected genetic disease or can provide other useful information to your health care team. Learn more about genetic testing from the National Human Genome Research Institute (NHGRI)[https://www.genome.gov/FAQ/Genetic-Testing].",
+            "disease_name": disease_name,
+            "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+            "orpha_id": orpha_id,
+            "gard_id": gard_id,
+            "mondo_id": mondo_id
+        })
+
+    return output_lines
+
+def generate_inheritance_intro_line(raw, disease_name, numeric_id):
+    disease_name = raw.get("GARD_Name__c", "").strip()
+    orpha_id = raw.get("ORPHANET_ID__c", "").strip()
+    gard_id = raw.get("DiseaseID__c", "").strip()
+    mondo_id = raw.get("MONDO_ID__c", "").strip()
+
+    inheritance_values = raw.get("Inheritance__c", [])
+
+    if inheritance_values:
+        content = (
+            f"Yes. It is possible for a biological parent to pass down genetic mutations that cause or increase the chances of getting {disease_name} to their child. This is known as inheritance. Knowing whether other family members have previously had this disease, also known as family health history, can be very important information for your medical team."
+        )
+    else:
+        content = (
+            "At this time, GARD does not have data on whether this disease can be inherited."
+        )
+
+    return {
+        "id": f"{numeric_id}_inheritance_intro",
+        "category": "inheritance_intro",
+        "content": content,
+        "disease_name": disease_name,
+        "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+        "orpha_id": orpha_id,
+        "gard_id": gard_id,
+        "mondo_id": mondo_id
+    }
+
+def generate_inheritance_pattern_lines(raw, disease_name, numeric_id):
+    output_lines = []
+    patterns = raw.get("Inheritance__c", [])
+    if not patterns:
+        return output_lines
+
+    disease_name = raw.get("GARD_Name__c", "").strip()
+    orpha_id = raw.get("ORPHANET_ID__c", "").strip()
+    gard_id = raw.get("DiseaseID__c", "").strip()
+    mondo_id = raw.get("MONDO_ID__c", "").strip()
+
+    for pattern in patterns:
+        pattern_clean = pattern.strip()
+        if not pattern_clean:
+            continue
+
+        id_fragment = pattern_clean.lower().replace(" ", "-")
+        output_lines.append({
+            "id": f"{numeric_id}_inheritance_{id_fragment}",
+            "category": "inheritance",
+            "inheritance_pattern": pattern_clean,
+            "content": f"{disease_name} can be inherited in a {pattern_clean} pattern.",
+            "disease_name": disease_name,
+            "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+            "orpha_id": orpha_id,
+            "gard_id": gard_id,
+            "mondo_id": mondo_id
+        })
+
+    return output_lines
+
+def generate_diagnostic_team_lines(raw, disease_name, numeric_id):
+    output_lines = []
+    specialists = raw.get("tags", {}).get("Specialist", [])
+    if not specialists:
+        return output_lines
+
+    disease_name = raw.get("GARD_Name__c", "").strip()
+    orpha_id = raw.get("ORPHANET_ID__c", "").strip()
+    gard_id = raw.get("DiseaseID__c", "").strip()
+    mondo_id = raw.get("MONDO_ID__c", "").strip()
+
+    for specialty in specialists:
+        label = specialty.strip()
+        if not label:
+            continue
+
+        id_fragment = label.lower().replace(" ", "-")
+        output_lines.append({
+            "id": f"{numeric_id}_diagnostic-team_{id_fragment}",
+            "category": "diagnostic_team",
+            "specialist_type": label,
+            "content": f"{disease_name} may require evaluation by a {label} specialist.",
+            "disease_name": disease_name,
+            "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+            "orpha_id": orpha_id,
+            "gard_id": gard_id,
+            "mondo_id": mondo_id
+        })
+
+    return output_lines
+
+def generate_organization_line(raw, disease_name, numeric_id):
+    orgs = raw.get("Organization_Supported_Diseases__c", [])
+    if not orgs:
+        return None
+
+    return {
+        "id": f"{numeric_id}_organizations_summary",
+        "category": "organization",
+        "content": (
+            f"{disease_name} is supported by at least one organization. "
+            "See the organization records for more details."
+        ),
+        "disease_name": disease_name,
+        "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+        "orpha_id": raw.get("ORPHANET_ID__c", "").strip(),
+        "gard_id": raw.get("DiseaseID__c", "").strip(),
+        "mondo_id": raw.get("MONDO_ID__c", "").strip()
+    }
+
+def generate_clinical_studies_line(raw, disease_name, numeric_id):
+    disease_name = raw.get("GARD_Name__c", "").strip()
+    synonyms = [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()]
+
+    # Build query string
+    all_terms = [disease_name] + [f'"{s}"' for s in synonyms]
+    query = " OR ".join(all_terms)
+    encoded_query = quote_plus(query)
+
+    url = f"https://www.clinicaltrials.gov/ct2/results?cond={encoded_query}&recrs=b&recrs=a"
+
+    return {
+        "id": f"{numeric_id}_clinical_studies",
+        "category": "clinical_studies",
+        "content": (
+            f"Clinical studies related to {disease_name} can be found at the following link: {url}"
+        ),
+        "disease_name": disease_name,
+        "synonyms": [s.strip() for s in raw.get("GARD_Synonym__c", "").split(";") if s.strip()],
+        "orpha_id": raw.get("ORPHANET_ID__c", "").strip(),
+        "gard_id": raw.get("DiseaseID__c", "").strip(),
+        "mondo_id": raw.get("MONDO_ID__c", "").strip()
+    }
+
+# ======= Main processing logic =======
+
+def process_raw_file(raw_path, output_path):
+    with open(raw_path, 'r', encoding='utf-8') as f:
+        raw = json.load(f)
+    disease_name = raw.get("GARD_Name__c", "").strip()
+    numeric_id = str(raw.get("id", "")).strip()
+    output_lines = []
+
+    # DEBUG: Print the disease name and ID for each file
+    #with open(raw_path, 'r', encoding='utf-8') as f:
+    #    raw = json.load(f)
+    #disease_name = raw.get("GARD_Name__c", "").strip()
+    #numeric_id = str(raw.get("id", "")).strip()
+    #print(f">>> Processing ID: {numeric_id}, Name: {disease_name}")
+
+    #if not numeric_id:
+    #    print(f"⚠️ Skipping file: missing ID → {raw_path}")
+    #    return
+
+    # Generate each line
+    summary_line = generate_disease_summary_line(raw, disease_name, numeric_id)
+    output_lines.append(summary_line)
+
+    pop_line = generate_population_estimate_line(raw, disease_name, numeric_id)
+    if pop_line:
+        output_lines.append(pop_line)
+
+    category_lines = generate_disease_category_lines(raw, disease_name, numeric_id)
+    if category_lines:
+        output_lines.extend(category_lines)
+
+    onset_line = generate_age_at_onset_line(raw, disease_name, numeric_id)
+    if onset_line:
+        output_lines.append(onset_line)
+
+    cause_lines = generate_cause_lines(raw, disease_name, numeric_id)
+    if cause_lines:
+        output_lines.extend(cause_lines)
+
+    inheritance_intro = generate_inheritance_intro_line(raw, disease_name, numeric_id)
+    if inheritance_intro:    
+        output_lines.append(inheritance_intro)
+
+    inheritance_lines = generate_inheritance_pattern_lines(raw, disease_name, numeric_id)
+    if inheritance_lines:
+        output_lines.extend(inheritance_lines)
+
+    diagnostic_lines = generate_diagnostic_team_lines(raw, disease_name, numeric_id)
+    if diagnostic_lines:
+        output_lines.extend(diagnostic_lines)
+
+    organization_line = generate_organization_line(raw, disease_name, numeric_id )
+    if organization_line:
+        output_lines.append(organization_line)
+
+    clinical_line = generate_clinical_studies_line(raw, disease_name, numeric_id)
+    if clinical_line:
+        output_lines.append(clinical_line)
+
+    print(f"Generated {len(output_lines)} output lines")
+    print(f"Output path: {output_path}")
+
+    with open(output_path, 'w', encoding='utf-8') as out:
+        for record in output_lines:
+            out.write(json.dumps(record, ensure_ascii=False) + '\n')
+    print(f"✅ Wrote {len(output_lines)} lines to {output_path}")
+
+if __name__ == "__main__":
+    input_folder = r"C:\Users\SergioPineda\OneDrive - Axle\Documents\GARD Chatbot Research\Data Preperation\raw_json_files"
+    output_folder = r"C:\Users\SergioPineda\OneDrive - Axle\Documents\GARD Chatbot Research\Data Preperation\Chatbot_Input_Files\V2.0\non-enriched"
+
+    for filename in os.listdir(input_folder):
+        if filename.lower().endswith(".json"):
+            print(f"FOUND: {filename}")  # <-- ADD THIS
+            raw_path = os.path.join(input_folder, filename)
+            base_name = os.path.splitext(filename)[0]
+            output_path = os.path.join(output_folder, f"{base_name}_converted.jsonl")
+
+            print(f"Processing {filename} → {os.path.basename(output_path)}")
+            process_raw_file(raw_path, output_path)

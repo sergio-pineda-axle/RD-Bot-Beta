@@ -1,0 +1,1408 @@
+{
+  "Name": "Leigh syndrome",
+  "DiseaseID__c": "GARD:0006877",
+  "id": 6877,
+  "encodedName": "leigh-syndrome",
+  "IsDeleted": false,
+  "Disease_Name_Full__c": "Leigh syndrome",
+  "Xref_IDs__c": "MEDGEN:44095; DOID:3652; ORPHA:506; C84814; D007888; OMIM:256000; 29570005; C0023264",
+  "USA_Estimate__c": "50,000",
+  "World_Estimate__c": "80,000 to 800,000",
+  "Description_Source__c": "MONDO:0009723",
+  "Disease_Description__c": "A progressive neurological disease defined by specific neuropathological features associating brainstem and basal ganglia lesions.",
+  "GARD_Name__c": "Leigh syndrome",
+  "GARD_Synonym__c": "infantile necrotizing encephalomyelopathy; infantile subacute necrotizing encephalopathy; juvenile subacute necrotizing encephalomyelopathy; Leigh disease; Leigh syndrome spectrum; Leigh's disease; LS; LSS",
+  "Curated_Disease_Description_Source__c": "GARD:0006877",
+  "Curated_Disease_Description__c": "Leigh syndrome is a rare, inherited neurodegenerative condition. It usually becomes apparent in infancy, often after a viral infection. Signs and symptoms usually progress rapidly. Early symptoms may include poor sucking ability; loss of head control and motor skills; loss of appetite; vomiting; and seizures. As the condition progresses, symptoms may include weakness and lack of muscle tone; spasticity; movement disorders; cerebellar ataxia; and peripheral neuropathy. Complications can lead to impairment of respiratory, heart and kidney function. The term \"Leigh-like syndrome\" is often used for people with features that are strongly suggestive of Leigh syndrome but who do not meet the diagnostic criteria. The inheritance of Leigh syndrome depends on where the responsible gene is located in each case. This is because it can be due to genetic changes in either mitochondrial DNA or nuclear DNA: Mitochondrial DNA-associated Leigh syndrome follows a mitochondrial inheritance pattern (also called maternal inheritance). Nuclear gene-encoded Leigh syndrome may be inherited in an autosomal recessive or X-linked manner.",
+  "Curated_USA_Estimate_Source__c": null,
+  "Curated_USA_Estimate__c": "50,000",
+  "Age_at_Onset_Snippet_Text__c": "at any time in life",
+  "SourceID__c": "ORPHA:506",
+  "Deprecated__c": "No",
+  "Disease_Concept_Type__c": "Rare Disease Grouping",
+  "MONDO_ID__c": "MONDO:0009723",
+  "ORPHANET_ID__c": "ORPHA:506",
+  "Replaced_By_ID__c": null,
+  "Display_Spanish_Disease_Name__c": "Síndrome de Leigh",
+  "Spanish_Description_Source__c": "ORPHA:506",
+  "Spanish_Description__c": "Es una enfermedad neurológica progresiva definida por unos hallazgos neuropatológicos específicos asociados a lesiones del tronco cerebral y de los ganglios basales.",
+  "Spanish_Disease_Name__c": "Síndrome de Leigh",
+  "Spanish_GARD_Synonym__c": "Encefalopatia necrotizante subaguda infantil",
+  "Category_Linearization__c": "ORPHA:68367",
+  "icd10_id__c": null,
+  "mesh_id__c": null,
+  "omim_id__c": null,
+  "snomed_id__c": null,
+  "umls_id__c": null,
+  "GARD_Disease__c": [
+    {
+      "Curated_Disease_Description__c": "Leigh syndrome is a rare, inherited neurodegenerative condition. It usually becomes apparent in infancy, often after a viral infection. Signs and symptoms usually progress rapidly. Early symptoms may include poor sucking ability; loss of head control and motor skills; loss of appetite; vomiting; and seizures. As the condition progresses, symptoms may include weakness and lack of muscle tone; spasticity; movement disorders; cerebellar ataxia; and peripheral neuropathy. Complications can lead to impairment of respiratory, heart and kidney function. The term \"Leigh-like syndrome\" is often used for people with features that are strongly suggestive of Leigh syndrome but who do not meet the diagnostic criteria. The inheritance of Leigh syndrome depends on where the responsible gene is located in each case. This is because it can be due to genetic changes in either mitochondrial DNA or nuclear DNA: Mitochondrial DNA-associated Leigh syndrome follows a mitochondrial inheritance pattern (also called maternal inheritance). Nuclear gene-encoded Leigh syndrome may be inherited in an autosomal recessive or X-linked manner.",
+      "Curated_Disease_Description_Source__c": "GARD:0006877",
+      "GARD_Synonym__c": "infantile necrotizing encephalomyelopathy; infantile subacute necrotizing encephalopathy; juvenile subacute necrotizing encephalomyelopathy; Leigh disease; Leigh syndrome spectrum; Leigh's disease; LS; LSS",
+      "Name": "Leigh syndrome",
+      "Curated_USA_Estimate__c": "50,000",
+      "estimateUsa": "50,000"
+    }
+  ],
+  "Organization_Supported_Diseases__c": [
+    {
+      "Account_Name__c": "Muscular Dystrophy Association",
+      "Website__c": "https://www.mda.org"
+    },
+    {
+      "Account_Name__c": "CureARS",
+      "Website__c": "https://www.curears.org/"
+    },
+    {
+      "Account_Name__c": "Cure Mito Foundation",
+      "Website__c": "https://www.curemito.org/"
+    },
+    {
+      "Account_Name__c": "About Leigh Syndrome",
+      "Website__c": "https://aboutleighsyndrome.com/"
+    },
+    {
+      "Account_Name__c": "Metabolic Support UK",
+      "Website__c": "https://www.metabolicsupportuk.org"
+    },
+    {
+      "Account_Name__c": "Alianza Iberoamericana de Enfermedades Raras o Poco Frecuentes",
+      "Website__c": "https://aliber.org/web/"
+    },
+    {
+      "Account_Name__c": "Federación Mexicana de Enfermedades Raras (FEMEXER)",
+      "Website__c": "http://www.femexer.org/"
+    },
+    {
+      "Account_Name__c": "Federación Española de Enfermedades Raras",
+      "Website__c": "https://enfermedades-raras.org/"
+    },
+    {
+      "Account_Name__c": "Federación Colombiana de Enfermedades Raras",
+      "Website__c": "http://www.fecoer.org"
+    },
+    {
+      "Account_Name__c": "Federación Argentina de Enfermedades Poco Frecuentes",
+      "Website__c": "https://fadepof.org.ar/"
+    },
+    {
+      "Account_Name__c": "Asociación Todos Unidos Enfermedades Raras Uruguay",
+      "Website__c": "https://atueru.org.uy/"
+    },
+    {
+      "Account_Name__c": "United Mitochondrial Disease Foundation",
+      "Website__c": "https://www.umdf.org"
+    },
+    {
+      "Account_Name__c": "MitoAction",
+      "Website__c": "https://www.mitoaction.org/"
+    },
+    {
+      "Account_Name__c": "Alex The Leukodystrophy Charity",
+      "Website__c": "https://www.alextlc.org"
+    },
+    {
+      "Account_Name__c": "People Against Leigh Syndrome",
+      "Website__c": "https://www.peopleagainstleighs.org/"
+    }
+  ],
+  "GARD_Disease_Tag__c": [
+    {
+      "Tag_Name__c": "Genetics",
+      "Tag_Category__c": "Cause;Disease Category;Specialist",
+      "category_description": "Genetic diseases affect the DNA, or genetic instructions, which directs how tissues, organs, and body systems function.",
+      "curated_tag_name": "Genetic diseases"
+    },
+    {
+      "Tag_Name__c": "Neurology",
+      "Tag_Category__c": "Disease Category;Specialist",
+      "category_description": "Neurological diseases affect the brain, spinal cord, cranial nerves, autonomic nerves, or other peripheral nerves.",
+      "curated_tag_name": "Neurological diseases"
+    },
+    {
+      "Tag_Name__c": "Ophthalmology",
+      "Tag_Category__c": "Specialist"
+    },
+    {
+      "Tag_Name__c": "Inborn Errors of Metabolism",
+      "Tag_Category__c": "Cause;Disease Category",
+      "category_description": "Inherited metabolic diseases, or inborn errors of metabolism, are a group of genetic diseases that affect the ability of the body's cells to convert food into energy.",
+      "curated_tag_name": "Inherited metabolic diseases"
+    },
+    {
+      "Tag_Name__c": "Mitochondrial",
+      "Tag_Category__c": "Account;Cause;Disease Category",
+      "category_description": "Mitochondrial diseases are a group of genetic diseases that affect the ability of the body's cells to make energy.",
+      "curated_tag_name": "Mitochondrial diseases"
+    },
+    {
+      "Tag_Name__c": "Peripheral Neuropathy",
+      "Tag_Category__c": "Account",
+      "curated_tag_name": "Peripheral neuropathy"
+    },
+    {
+      "Tag_Name__c": "Epilepsy",
+      "Tag_Category__c": "Account",
+      "curated_tag_name": "Epilepsy"
+    },
+    {
+      "Tag_Name__c": "Pediatrics",
+      "Tag_Category__c": "Specialist"
+    }
+  ],
+  "Age_At_Onset__c": [
+    {
+      "Age_At_Onset__c": "All ages",
+      "Provided_By__c": "ORPHA:506"
+    }
+  ],
+  "Diagnosis__c": [
+    {
+      "Type__c": "GTR",
+      "Curie__c": "MEDGEN:C0023264"
+    }
+  ],
+  "External_Identifier_Disease__c": [
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/books/NBK320989",
+      "Source__c": "Gene Review",
+      "Xref_ID__c": "NBK320989"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/books/NBK1224",
+      "Source__c": "Gene Review",
+      "Xref_ID__c": "NBK1224"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/books/NBK1173",
+      "Source__c": "Gene Review",
+      "Xref_ID__c": "NBK1173"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/books/NBK1203",
+      "Source__c": "Gene Review",
+      "Xref_ID__c": "NBK1203"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/medgen/?term=44095",
+      "Source__c": "MONDO:0009723",
+      "Xref_ID__c": "MEDGEN:44095"
+    },
+    {
+      "URL__c": "https://www.ebi.ac.uk/ols4/ontologies/doid/classes?obo_id=DOID%3A3652",
+      "Source__c": "MONDO:0009723",
+      "Xref_ID__c": "DOID:3652"
+    },
+    {
+      "URL__c": "https://www.orpha.net/en/disease/detail/506",
+      "Source__c": "MONDO:0009723",
+      "Xref_ID__c": "ORPHA:506"
+    },
+    {
+      "URL__c": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C84814",
+      "Source__c": "MONDO:0009723",
+      "Xref_ID__c": "C84814"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/mesh/C007888",
+      "Source__c": "MONDO:0009723",
+      "Xref_ID__c": "D007888"
+    },
+    {
+      "URL__c": "https://www.omim.org/entry/256000",
+      "Source__c": "MONDO:0009723",
+      "Xref_ID__c": "OMIM:256000"
+    },
+    {
+      "URL__c": "https://browser.ihtsdotools.org/?perspective=full&conceptId1=29570005",
+      "Source__c": "MONDO:0009723",
+      "Xref_ID__c": "29570005"
+    },
+    {
+      "URL__c": "https://uts.nlm.nih.gov/uts/umls/concept/C0023264",
+      "Source__c": "MONDO:0009723",
+      "Xref_ID__c": "C0023264"
+    }
+  ],
+  "Inheritance__c": [
+    "Mitochondrial inheritance",
+    "Autosomal recessive",
+    "X-linked recessive"
+  ],
+  "GARD_Disease_Feature__c": [
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A reduction in the activity of the mitochondrial respiratory chain complex I, which is part of the electron transport chain in mitochondria.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0011923",
+        "HPO_Name__c": "Decreased activity of mitochondrial complex I",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Infantile spasms represent a subset of \\\"epileptic spasms\\\". Infantile Spasms are epileptic spasms starting in the first year of life (infancy).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0012469",
+        "HPO_Name__c": "Infantile spasms",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Rhythmic, involuntary oscillations of one or both eyes related to abnormality in fixation, conjugate gaze, or vestibular mechanisms.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000639",
+        "HPO_Synonym__c": "Involuntary, rapid, rhythmic eye movements",
+        "HPO_Name__c": "Nystagmus",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Median longitudinal ear length greater than two standard deviations above the mean and median ear width greater than two standard deviations above the mean (objective); or, apparent increase in length and width of the pinna (subjective).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000400",
+        "HPO_Synonym__c": "Large ears; Large pinnae",
+        "HPO_Name__c": "Macrotia",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "Concentration or activity of an enzyme is above or below the limits of normal in the blood circulation.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0012379",
+        "HPO_Name__c": "Abnormal circulating enzyme concentration or activity",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "Abnormally increased level of blood lactate (2-hydroxypropanoic acid). Lactate is produced from pyruvate by lactate dehydrogenase during normal metabolism. The terms lactate and lactic acid are often used interchangeably but lactate (the component measured in blood) is strictly a weak base whereas lactic acid is the corresponding acid. Lactic acidosis is often used clinically to describe elevated lactate but should be reserved for cases where there is a corresponding acidosis (pH below 7.35).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002151",
+        "HPO_Synonym__c": "Increased blood lactate; Increased serum lactate",
+        "HPO_Name__c": "Increased circulating lactate concentration",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormal restriction of fetal growth with fetal weight below the tenth percentile for gestational age.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001511",
+        "HPO_Synonym__c": "In utero growth retardation; Intrauterine growth failure; Intrauterine growth restriction; Intrauterine growth retardation, IUGR; Intrauterine retardation; IUGR; Prenatal growth deficiency; Prenatal growth failure; Prenatal growth retardation; Prenatal onset growth retardation; Prenatal-onset growth retardation; Small for gestational age infant",
+        "HPO_Name__c": "Intrauterine growth retardation",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "The presence of an abnormality of cardiac function that is responsible for the failure of the heart to pump blood at a rate that is commensurate with the needs of the tissues or a state in which abnormally elevated filling pressures are required for the heart to do so. Heart failure is frequently related to a defect in myocardial contraction.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001635",
+        "HPO_Synonym__c": "Cardiac failure; Cardiac failures; Cardiac insufficiency; CHF; Chronic heart failure; Heart failure",
+        "HPO_Name__c": "Congestive heart failure",
+        "Feature_System__c": "Cardiovascular System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "Increased concentration of lactate in the cerebrospinal fluid.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002490",
+        "HPO_Synonym__c": "Hyperlactatorachia; Increased cerebrospinal fluid lactate; Increased CSF lactic acid",
+        "HPO_Name__c": "Increased CSF lactate",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormally low number of neutrophils in the peripheral blood.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001875",
+        "HPO_Synonym__c": "Low blood neutrophil count; Low neutrophil count; Peripheral neutropenia",
+        "HPO_Name__c": "Neutropenia",
+        "Feature_System__c": "Immune System; Blood and Blood-Forming Tissue",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "An increased concentration of lactic acid in the urine.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0003648",
+        "HPO_Synonym__c": "High urine lactic acid levels; Increased urine lactate",
+        "HPO_Name__c": "Lacticaciduria",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Peripheral neuropathy is a general term for any disorder of the peripheral nervous system. The main clinical features used to classify peripheral neuropathy are distribution, type (mainly demyelinating versus mainly axonal), duration, and course.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0009830",
+        "HPO_Synonym__c": "Peripheral nerve damage; Peripheral neuritis",
+        "HPO_Name__c": "Peripheral neuropathy",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "Muscular hypotonia (abnormally low muscle tone) manifesting in infancy.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0008947",
+        "HPO_Synonym__c": "Decreased muscle tone in infant; Hypotonia early; Hypotonia in infancy; Hypotonia, early; Infantile hypotonia",
+        "HPO_Name__c": "Infantile muscular hypotonia",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Spasticity (neuromuscular hypertonia) primarily in the muscles of the legs, hips, and pelvis.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001264",
+        "HPO_Synonym__c": "Spastic diparesis; Spastic diplegic",
+        "HPO_Name__c": "Spastic diplegia",
+        "Feature_System__c": "Nervous System; Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A slow, continuous, involuntary writhing movement that prevents maintenance of a stable posture. Athetosis involves continuous smooth movements that appear random and are not composed of recognizable sub-movements or movement fragments. In contrast to chorea, in athetosis, the same regions of the body are repeatedly involved. Athetosis may worsen with attempts at movement of posture, but athetosis can also occur at rest.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002305",
+        "HPO_Synonym__c": "Athetoid movements; Involuntary writhing movements; Involuntary writhing movements in fingers, hands, toes, and feet",
+        "HPO_Name__c": "Athetosis",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormally increased height of the forehead.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000348",
+        "HPO_Synonym__c": "High forehead",
+        "HPO_Name__c": "High forehead",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A deviation from normal signal on magnetic resonance imaging (MRI) of the thalamus.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0012696",
+        "HPO_Name__c": "Abnormal thalamic MRI signal intensity",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Imaging_MRI"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A severe form of respiratory insufficiency characterized by inadequate gas exchange such that the levels of oxygen or carbon dioxide cannot be maintained within normal limits.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002878",
+        "HPO_Synonym__c": "Respiratory failure",
+        "HPO_Name__c": "Respiratory failure",
+        "Feature_System__c": "Respiratory system",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Paralysis of one or more extraocular muscles that are responsible for eye movements.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000602",
+        "HPO_Synonym__c": "Eye muscle paralysis; Paralysis of extraocular eye movement",
+        "HPO_Name__c": "Ophthalmoplegia",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Reduced strength of the musculature of the distal extremities.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002460",
+        "HPO_Synonym__c": "Distal limb muscle weakness; Distal limb weakness; Distal muscular weakness; Distal paresis; Muscle weakness, distal; Muscle weakness, distal limbs, due to neuronopathy; Weakness of distal muscles; Weakness of outermost muscles",
+        "HPO_Name__c": "Distal muscle weakness",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Impaired ability to eat related to problems gathering food and getting ready to suck, chew, or swallow it.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0011968",
+        "HPO_Synonym__c": "Feeding difficulties; Feeding problems; Poor feeding",
+        "HPO_Name__c": "Feeding difficulties",
+        "Feature_System__c": "Digestive System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A reduction in the activity of the mitochondrial respiratory chain complex III, which is part of the electron transport chain in mitochondria.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0011924",
+        "HPO_Name__c": "Decreased activity of mitochondrial complex III",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Acidosis resulting from accumulation of ketone bodies.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001993",
+        "HPO_Name__c": "Ketoacidosis",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A motor disorder characterized by a velocity-dependent increase in tonic stretch reflexes with increased muscle tone, exaggerated (hyperexcitable) tendon reflexes.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001257",
+        "HPO_Synonym__c": "Involuntary muscle stiffness, contraction, or spasm; Muscle spasticity; Muscular spasticity",
+        "HPO_Name__c": "Spasticity",
+        "Feature_System__c": "Nervous System; Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormality of the dentate nucleus.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0100321",
+        "HPO_Synonym__c": "Abnormality of the dentate nucleus",
+        "HPO_Name__c": "Abnormal dentate nucleus morphology",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "An increase in the level of lactate in the brain identified by magnetic resonance spectroscopy (MRS).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0012707",
+        "HPO_Name__c": "Elevated brain lactate level by MRS",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Imaging_MRI"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "A movement disorder which consists of effects including diminished voluntary movements and the presence of involuntary movements.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0100660",
+        "HPO_Synonym__c": "Disorder of involuntary muscle movements; Dyskinesis",
+        "HPO_Name__c": "Dyskinesia",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormally increased muscular tone that causes fixed abnormal postures. There is a slow, intermittent twisting motion that leads to exaggerated turning and posture of the extremities and trunk.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001332",
+        "HPO_Synonym__c": "Dystonic movements",
+        "HPO_Name__c": "Dystonia",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Involuntary movements characterized by both athetosis (inability to sustain muscles in a fixed position) and chorea (widespread jerky arrhythmic movements).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001266",
+        "HPO_Synonym__c": "Choreoathetoid movements",
+        "HPO_Name__c": "Choreoathetosis",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Abnormal function of the renal tubule. The basic functional unit of the kidney, the nephron, consists of a renal corpuscle attached to a renal tubule, with roughly 0.8 to 1.5 nephrons per adult kidney. The functions of the renal tubule include reabsorption of water, electrolytes, glucose, and amino acids and secretion of substances such as uric acid.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000124",
+        "HPO_Synonym__c": "Abnormal function of filtrating structures in kidney; Renal tubular defect",
+        "HPO_Name__c": "Renal tubular dysfunction",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Hypsarrhythmia is abnormal interictal high amplitude waves and a background of irregular spikes. There is continuous (during wakefulness), high-amplitude (\u003E200 Hz), generalized polymorphic slowing with no organized background and multifocal spikes demonstrated by electroencephalography (EEG).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002521",
+        "HPO_Synonym__c": "Hypsarrhythmia by EEG",
+        "HPO_Name__c": "Hypsarrhythmia",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Procedure_EEG"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A delay in the achievement of motor or mental milestones in the domains of development of a child, including motor skills, speech and language, cognitive skills, and social and emotional skills. This term should only be used to describe children younger than five years of age.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001263",
+        "HPO_Synonym__c": "Delayed cognitive development; Delayed development; Delayed developmental milestones; Delayed intellectual development; Delayed milestones; Delayed psychomotor development; Developmental delay; Developmental delay in early childhood; Developmental delay, global; Developmental retardation; GDD; Lack of psychomotor development; Motor and developmental delay; Motormental retardation; Psychomotor delay; Psychomotor development deficiency; Psychomotor development failure; Psychomotor developmental delay; Retarded development; Retarded mental development; Retarded psychomotor development",
+        "HPO_Name__c": "Global developmental delay",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001399",
+        "HPO_Synonym__c": "Liver failure",
+        "HPO_Name__c": "Hepatic failure",
+        "Feature_System__c": "Digestive System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "A noncongenital process of hair loss, which may progress to partial or complete baldness.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001596",
+        "HPO_Synonym__c": "Hair loss",
+        "HPO_Name__c": "Alopecia",
+        "Feature_System__c": "Skin System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A functional anomaly of the upper motor neuron. The upper motor neurons are neurons of the primary motor cortex which project to the brainstem and spinal chord via the corticonuclear, corticobulbar and corticospinal (pyramidal) tracts. They are involved in control of voluntary movements. Dysfunction leads to weakness, impairment of fine motor movements, spasticity, hyperreflexia and abnormal pyramidal signs.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002493",
+        "HPO_Synonym__c": "Corticospinal tract dysfunction; Pyramidal tract dysfunction",
+        "HPO_Name__c": "Upper motor neuron dysfunction",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A reduction in the number of nerve cells in the basal ganglia.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0200147",
+        "HPO_Name__c": "Neuronal loss in basal ganglia",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A seizure is an intermittent abnormality of nervous system physiology characterized by a transient occurrence of signs and/or symptoms due to abnormal excessive or synchronous neuronal activity in the brain.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001250",
+        "HPO_Synonym__c": "Epileptic seizure; Seizures",
+        "HPO_Name__c": "Seizure",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A decreased concentration of glucose in the blood.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001943",
+        "HPO_Synonym__c": "Hypoglycaemia; Low blood sugar",
+        "HPO_Name__c": "Hypoglycemia",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Abnormality of the optic nerve.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000587",
+        "HPO_Synonym__c": "Abnormality of the optic nerve; optic nerve abnormalities; Optic nerve issue",
+        "HPO_Name__c": "Abnormal optic nerve morphology",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Motor hyperactivity with excessive movement of muscles of the body as a whole.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002487",
+        "HPO_Synonym__c": "Hyperactive movements; Hyperkinesia; Hyperkinesis",
+        "HPO_Name__c": "Hyperkinetic movements",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "A reduction in the activity of the mitochondrial respiratory chain complex II, which is part of the electron transport chain in mitochondria.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0008314",
+        "HPO_Name__c": "Decreased activity of mitochondrial complex II",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Gliosis is the focal proliferation of glial cells in the central nervous system.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002171",
+        "HPO_Synonym__c": "Cerebral gliosis; Excess astrocytes in brain",
+        "HPO_Name__c": "Gliosis",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Loss of developmental skills, as manifested by loss of developmental milestones.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002376",
+        "HPO_Synonym__c": "Loss of acquired milestones; Loss of developmental milestones; Loss of milestones; Mental deterioration in childhood; Neurodevelopmental regression; Psychomotor regression; Psychomotor regression beginning in infancy; Psychomotor regression in infants; Psychomotor regression, progressive",
+        "HPO_Name__c": "Developmental regression",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormality of the skeletal system.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000924",
+        "HPO_Synonym__c": "Abnormality of the skeletal system; Skeletal abnormalities; Skeletal anomalies",
+        "HPO_Name__c": "Abnormality of the skeletal system",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A lighter than expected T2 signal on magnetic resonance imaging (MRI) of the brainstem. This term refers to a localized hyperintensity affecting a particular region of the brainstem.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0012748",
+        "HPO_Name__c": "Focal T2 hyperintense brainstem lesion",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Imaging_MRI"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A type of hearing impairment in one or both ears related to an abnormal functionality of the cochlear nerve.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000407",
+        "HPO_Synonym__c": "Hearing loss, sensorineural; Sensorineural deafness; Sensorineural hearing loss",
+        "HPO_Name__c": "Sensorineural hearing impairment",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002344",
+        "HPO_Synonym__c": "Neurologic deterioration; Neurologic deterioration, progressive; Progressive mental deterioration; Progressive neurodegeneration; Worsening neurological symptoms",
+        "HPO_Name__c": "Progressive neurologic deterioration",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "An anomaly of the rhythm or depth of breathing.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002793",
+        "HPO_Synonym__c": "Abnormal pattern of respiration; Abnormal respiratory patterns; Unusual breathing patterns",
+        "HPO_Name__c": "Abnormal pattern of respiration",
+        "Feature_System__c": "Respiratory system",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Concentration of biotinidase in the blood circulation below the lower limit of normal. Biotidinase is an enzyme that releases biotin from biocytin, the product of biotin-dependent carboxylases degradation.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0410145",
+        "HPO_Synonym__c": "Decreased biotinidase level",
+        "HPO_Name__c": "Decreased circulating biotinidase concentration",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Decreased activity of the mitochondrial respiratory chain.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0008972",
+        "HPO_Name__c": "Decreased activity of mitochondrial respiratory chain",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Abnormal intestinal contractions, such as spasms and intestinal paralysis, related to the loss of the ability of the gut to coordinate muscular activity because of endogenous or exogenous causes.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002579",
+        "HPO_Synonym__c": "GI dysmotility",
+        "HPO_Name__c": "Gastrointestinal dysmotility",
+        "Feature_System__c": "Digestive System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "The presence of skeletal muscular atrophy (which is also known as amyotrophy).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0003202",
+        "HPO_Synonym__c": "Amyotrophy; Amyotrophy involving the extremities; Muscle atrophy; Muscle atrophy, neurogenic; Muscle degeneration; Muscle hypotrophy; Muscle wasting; Muscular atrophy; Neurogenic muscle atrophy; Neurogenic muscle atrophy, especially in the lower limbs; Neurogenic muscular atrophy",
+        "HPO_Name__c": "Skeletal muscle atrophy",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormality of movement with a neurological basis characterized by changes in coordination and speed of voluntary movements.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0100022",
+        "HPO_Synonym__c": "Abnormality of movement; Movement disorder; Unusual movement",
+        "HPO_Name__c": "Abnormality of movement",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Neuronal degeneration in the cerebellum, pontine nuclei, and inferior olivary nucleus.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002542",
+        "HPO_Synonym__c": "Olivopontocerebellar degeneration",
+        "HPO_Name__c": "Olivopontocerebellar atrophy",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "An increased amount of 3-methylglutaconic acid in the urine.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0003535",
+        "HPO_Synonym__c": "3-Methylglutaconicaciduria",
+        "HPO_Name__c": "3-Methylglutaconic aciduria",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "An increased concentration of all types of amino acid in the urine.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002909",
+        "HPO_Synonym__c": "Generalized nonspecific aminoaciduria",
+        "HPO_Name__c": "Generalized aminoaciduria",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormal morphology (form) of the face or its components.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001999",
+        "HPO_Synonym__c": "Abnormal facial shape; Abnormal morphology of the face; Distinctive facies; Dysmorphic facial features; Dysmorphic facies; Facial dysmorphism; Unusual facial appearance; Unusual facies",
+        "HPO_Name__c": "Abnormal facial shape",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Involuntary contractions of muscle leading to involuntary movements of extremities, neck, trunk, or face.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0004305",
+        "HPO_Synonym__c": "Involuntary movements; Involuntary muscle contractions",
+        "HPO_Name__c": "Involuntary movements",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "The upper eyelid margin is positioned 3 mm or more lower than usual and covers the superior portion of the iris (objective); or, the upper lid margin obscures at least part of the pupil (subjective).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000508",
+        "HPO_Synonym__c": "Blepharoptosis; Drooping upper eyelid; Eyelid ptosis; Palpebral ptosis",
+        "HPO_Name__c": "Ptosis",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A deviation from normal signal on magnetic resonance imaging (MRI) of the brainstem.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0012747",
+        "HPO_Name__c": "Abnormal brainstem MRI signal intensity",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Imaging_MRI"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Encephalomalacia is the softening or loss of brain tissue after cerebral infarction, cerebral ischemia, infection, craniocerebral trauma, or other injury.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0040197",
+        "HPO_Synonym__c": "Cerebral softening",
+        "HPO_Name__c": "Encephalomalacia",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001508",
+        "HPO_Synonym__c": "Faltering weight; FTT; Postnatal failure to thrive; Weight faltering",
+        "HPO_Name__c": "Failure to thrive",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A deviation from normal signal on magnetic resonance imaging (MRI) of the basal ganglia.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0012751",
+        "HPO_Name__c": "Abnormal basal ganglia MRI signal intensity",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Imaging_MRI"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A lighter than expected T2 signal on magnetic resonance imaging (MRI) of the basal ganglia. This term refers to a localized hyperintensity affecting a particular region of the basal ganglia.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0007183",
+        "HPO_Name__c": "Focal T2 hyperintense basal ganglia lesion",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Imaging_MRI"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Acidosis owing to malfunction of the kidney tubules with accumulation of metabolic acids and hyperchloremia, potentially leading to complications including hypokalemia, hypercalcinuria, nephrolithiasis and nephrocalcinosis.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001947",
+        "HPO_Synonym__c": "Accumulation of acid in body due to kidney problem",
+        "HPO_Name__c": "Renal tubular acidosis",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Leukodystrophy refers to deterioration of white matter of the brain resulting from degeneration of myelin sheaths in the CNS. Their basic defect is directly related to the synthesis and maintenance of myelin membranes. Symmetric white matter involvement at MRI is a typical finding in patients with leukodystrophies.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002415",
+        "HPO_Synonym__c": "Degeneration of white matter of brain",
+        "HPO_Name__c": "Leukodystrophy",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0008336",
+        "HPO_Name__c": "Complex organic aciduria",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "An anomaly of metabolism or structure of the brain identified by imaging.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0410263",
+        "HPO_Synonym__c": "Abnormal brain imaging",
+        "HPO_Name__c": "Brain imaging abnormality",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Underdevelopment of the corpus callosum.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002079",
+        "HPO_Synonym__c": "Corpus callosum hypoplasia; Hypoplasia of corpus callosum; Hypoplastic corpus callosum; Underdevelopment of part of brain called corpus callosum",
+        "HPO_Name__c": "Hypoplasia of the corpus callosum",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002928",
+        "HPO_Synonym__c": "Decreased activity of the PDH complex; Pyruvate dehydrogenase complex deficiency",
+        "HPO_Name__c": "Decreased activity of the pyruvate dehydrogenase complex",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002828",
+        "HPO_Name__c": "Multiple joint contractures",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "An axonal neuropathy of peripheral sensory nerves.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0003390",
+        "HPO_Synonym__c": "Axonal sensory neuropathy",
+        "HPO_Name__c": "Sensory axonal neuropathy",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Eczema is a form of dermatitis that is characterized by scaly, pruritic, erythematous lesions located on flexural surfaces.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000964",
+        "HPO_Synonym__c": "Eczema",
+        "HPO_Name__c": "Eczematoid dermatitis",
+        "Feature_System__c": "Skin System; Immune System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Status epilepticus is a type of prolonged seizure resulting either from the failure of the mechanisms responsible for seizure termination or from the initiation of mechanisms which lead to abnormally prolonged seizures (after time point t1). It is a condition that can have long-term consequences (after time point t2), including neuronal death, neuronal injury, and alteration of neuronal networks, depending on the type and duration of seizures.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002133",
+        "HPO_Synonym__c": "Prolonged seizure; Repeated seizure without recovery; Repeated seizures without recovery between them",
+        "HPO_Name__c": "Status epilepticus",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Cerebellar ataxia refers to ataxia due to dysfunction of the cerebellum. This causes a variety of elementary neurological deficits including asynergy (lack of coordination between muscles, limbs and joints), dysmetria (lack of ability to judge distances that can lead to under- or overshoot in grasping movements), and dysdiadochokinesia (inability to perform rapid movements requiring antagonizing muscle groups to be switched on and off repeatedly).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001251",
+        "HPO_Synonym__c": "Cerebellar ataxia",
+        "HPO_Name__c": "Ataxia",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Difficulty in swallowing.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002015",
+        "HPO_Synonym__c": "Difficulty swallowing; Poor swallowing; Swallowing difficulties; Swallowing difficulty",
+        "HPO_Name__c": "Dysphagia",
+        "Feature_System__c": "Nervous System; Digestive System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "An unusually severe viral infection.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0031691",
+        "HPO_Name__c": "Severe viral infection",
+        "Feature_System__c": "Immune System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Increased concentration of methylmalonic acid in the urine.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0012120",
+        "HPO_Synonym__c": "High blood methylmalonic acid levels; Methymalonicaciduria",
+        "HPO_Name__c": "Methylmalonic aciduria",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Nephrotic syndrome is a collection of findings resulting from glomerular dysfunction with an increase in glomerular capillary wall permeability associated with pronounced proteinuria. Nephrotic syndrome refers to the constellation of clinical findings that result from severe renal loss of protein, with Proteinuria and hypoalbuminemia, edema, and hyperlipidemia.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000100",
+        "HPO_Synonym__c": "Nephrosis",
+        "HPO_Name__c": "Nephrotic syndrome",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A reduction in the activity of the mitochondrial respiratory chain complex IV, which is part of the electron transport chain in mitochondria.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0008347",
+        "HPO_Name__c": "Decreased activity of mitochondrial complex IV",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A reduction in erythrocytes volume or hemoglobin concentration.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001903",
+        "HPO_Synonym__c": "Anaemia; Low number of red blood cells or hemoglobin",
+        "HPO_Name__c": "Anemia",
+        "Feature_System__c": "Blood and Blood-Forming Tissue",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Hypertrophic cardiomyopathy (HCM) is defined by the presence of increased ventricular wall thickness or mass in the absence of loading conditions (hypertension, valve disease) sufficient to cause the observed abnormality.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001639",
+        "HPO_Synonym__c": "Cardiomyopathy, hypertrophic; Enlarged and thickened heart muscle; HCM",
+        "HPO_Name__c": "Hypertrophic cardiomyopathy",
+        "Feature_System__c": "Cardiovascular System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A neurological condition related to lesions of the basal ganglia leading to typical abnormalities including akinesia (inability to initiate changes in activity and perform volitional movements rapidly and easily), muscular rigidity (continuous contraction of muscles with constant resistance to passive movement), chorea (widespread arrhythmic movements of a forcible, rapid, jerky, and restless nature), athetosis (inability to sustain the muscles of the fingers, toes, or other group of muscles in a fixed position), and akathisia (inability to remain motionless).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002071",
+        "HPO_Synonym__c": "Extrapyramidal dysfunction; Extrapyramidal signs; Extrapyramidal symptoms; Extrapyramidal syndrome; Extrapyramidal tract signs",
+        "HPO_Name__c": "Abnormality of extrapyramidal motor function",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Very frequent (80-99%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormal buildup of lactic acid in the body, leading to acidification of the blood and other bodily fluids.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0003128",
+        "HPO_Synonym__c": "Hyperlacticacidemia; Increased lactate in body; Lactic acidemia; Lacticacidemia; Lacticacidosis",
+        "HPO_Name__c": "Lactic acidosis",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Atrophy of the optic nerve. Optic atrophy results from the death of the retinal ganglion cell axons that comprise the optic nerve and manifesting as a pale optic nerve on fundoscopy.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000648",
+        "HPO_Synonym__c": "Optic nerve atrophy; Optic-nerve degeneration",
+        "HPO_Name__c": "Optic atrophy",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Excessive amount of hair growth on forehead.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0011335",
+        "HPO_Synonym__c": "Hairy forehead; Hirsute forehead",
+        "HPO_Name__c": "Frontal hirsutism",
+        "Feature_System__c": "Skin System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "Cerebellar atrophy is defined as a cerebellum with initially normal structures, in a posterior fossa with normal size, which displays enlarged fissures (interfolial spaces) in comparison to the foliae secondary to loss of tissue. Cerebellar atrophy implies irreversible loss of tissue and result from an ongoing progressive disease until a final stage is reached or a single injury, e.g. an intoxication or infectious event.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001272",
+        "HPO_Synonym__c": "Atrophic cerebellum; Degeneration of cerebellum",
+        "HPO_Name__c": "Cerebellar atrophy",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0006943",
+        "HPO_Name__c": "Diffuse spongiform leukoencephalopathy",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A deficiency or slowing down of growth pre- and postnatally.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001510",
+        "HPO_Synonym__c": "Delayed growth; Growth deficiency; Growth delay; Growth failure; Growth retardation; Poor growth; Retarded growth",
+        "HPO_Name__c": "Growth delay",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "The concentration of ethylmalonic acid in the urine, normalized for urine concentration, is above the upper limit of normal.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0003219",
+        "HPO_Name__c": "Ethylmalonic aciduria",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Absence of the corpus callosum as a result of the failure of the corpus callosum to develop, which can be the result of a failure in any one of the multiple steps of callosal development including cellular proliferation and migration, axonal growth or glial patterning at the midline.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001274",
+        "HPO_Synonym__c": "Absence of corpus callosum; Absent corpus callosum; Agenesis of the corpus callosum; Callosal agenesis; Corpus callosum agenesis; Dysplastic or absent corpus callosum",
+        "HPO_Name__c": "Agenesis of corpus callosum",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "A disorder of muscle unrelated to impairment of innervation or neuromuscular junction.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0003198",
+        "HPO_Synonym__c": "Muscle tissue disease; Myopathic changes",
+        "HPO_Name__c": "Myopathy",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Chorea (Greek for 'dance') refers to widespread arrhythmic involuntary movements of a forcible, jerky and restless fashion. It is a random-appearing sequence of one or more discrete involuntary movements or movement fragments. Movements appear random because of variability in timing, duration or location. Each movement may have a distinct start and end. However, movements may be strung together and thus may appear to flow randomly from one muscle group to another. Chorea can involve the trunk, neck, face, tongue, and extremities.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002072",
+        "HPO_Synonym__c": "Choreic movements; Choreiform movements",
+        "HPO_Name__c": "Chorea",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "A hole between the two bottom chambers (ventricles) of the heart. The defect is centered around the most superior aspect of the ventricular septum.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001629",
+        "HPO_Synonym__c": "Hole in heart wall separating two lower heart chambers; Ventricular septal defects; Ventriculoseptal defect; VSD",
+        "HPO_Name__c": "Ventricular septal defect",
+        "Feature_System__c": "Cardiovascular System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "An increased concentration of alanine in the blood.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0003348",
+        "HPO_Synonym__c": "Increased blood alanine; Increased serum alanine",
+        "HPO_Name__c": "Hyperalaninemia",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Uncommon (\u003C1-4%)",
+      "Feature__r": {
+        "HPO_Description__c": "A cataract is an opacity or clouding that develops in the crystalline lens of the eye or in its capsule.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000518",
+        "HPO_Synonym__c": "Cataracts; Clouding of the lens of the eye; Cloudy lens; Lens opacities; Lens opacity",
+        "HPO_Name__c": "Cataract",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Hypertrichosis is increased hair growth that is abnormal in quantity or location.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000998",
+        "HPO_Name__c": "Hypertrichosis",
+        "Feature_System__c": "Skin System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:506",
+      "HPO_Frequency__c": "Occasional (5-29%)",
+      "Feature__r": {
+        "HPO_Description__c": "Reduced strength of muscles.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001324",
+        "HPO_Synonym__c": "Muscle weakness; Muscular weakness",
+        "HPO_Name__c": "Muscle weakness",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    }
+  ],
+  "Related_Disease__c": [
+    {
+      "attributes": {
+        "type": "Related_Disease__c",
+        "url": "/services/data/v49.0/sobjects/Related_Disease__c/a14t0000003n2IdAAI"
+      },
+      "Related_Disease_Name__c": "Congenital lactic acidosis, saguenay-lac-saint-jean type",
+      "Related_Disease_ID__c": "GARD:0008370",
+      "Relationship_Type__c": "Child",
+      "GARD_Disease__c": "a05t0000001XLRlAAO",
+      "Id": "a14t0000003n2IdAAI"
+    },
+    {
+      "attributes": {
+        "type": "Related_Disease__c",
+        "url": "/services/data/v49.0/sobjects/Related_Disease__c/a14t0000003n2IeAAI"
+      },
+      "Related_Disease_Name__c": "Maternally-inherited Leigh syndrome",
+      "Related_Disease_ID__c": "GARD:0003671",
+      "Relationship_Type__c": "Child",
+      "GARD_Disease__c": "a05t0000001XLRlAAO",
+      "Id": "a14t0000003n2IeAAI"
+    }
+  ],
+  "tags": {
+    "Cause": [
+      "Genetics",
+      "Inborn Errors of Metabolism",
+      "Mitochondrial"
+    ],
+    "Disease Category": [
+      "Genetics",
+      "Neurology",
+      "Inborn Errors of Metabolism",
+      "Mitochondrial"
+    ],
+    "Specialist": [
+      "Genetics",
+      "Neurology",
+      "Ophthalmology",
+      "Pediatrics"
+    ],
+    "Account": [
+      "Mitochondrial",
+      "Peripheral Neuropathy",
+      "Epilepsy"
+    ]
+  },
+  "synonyms": [
+    "infantile necrotizing encephalomyelopathy",
+    " infantile subacute necrotizing encephalopathy",
+    " juvenile subacute necrotizing encephalomyelopathy",
+    " Leigh disease",
+    " Leigh syndrome spectrum",
+    " Leigh's disease",
+    " LS",
+    " LSS"
+  ],
+  "spanishId": 12945,
+  "spanishName": "sindrome-de-leigh"
+}

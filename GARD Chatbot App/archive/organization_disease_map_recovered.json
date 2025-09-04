@@ -1,0 +1,174 @@
+[
+  {
+    "org_name": "About Leigh Syndrome",
+    "org_url": "https://aboutleighsyndrome.com/",
+    "disease_name": [
+      "Leigh syndrome"
+    ],
+    "disease_category": [],
+    "serves_people_with": "Leigh syndrome",
+    "services_offered": [
+      {
+        "type": "Patient registry",
+        "url": "https://aboutleighsyndrome.com/patient-registry/"
+      }
+    ],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "Cure Mito Foundation",
+    "org_url": "https://www.curemito.org/",
+    "disease_name": [
+      "Leigh syndrome"
+    ],
+    "disease_category": [],
+    "serves_people_with": "Leigh syndrome",
+    "services_offered": [
+      {
+        "type": "Patient registry",
+        "url": "https://www.curemito.org/leighsyndromeregistry"
+      }
+    ],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "CureARS",
+    "org_url": "https://www.curears.org/",
+    "disease_name": [
+      "Leigh syndrome"
+    ],
+    "disease_category": [],
+    "serves_people_with": "mitochondrial ARS disorders including genes AARS2, CARS2, DARS2, EARS2, FARS2, GARS, HARS2, IARS2, KARS, LARS2, MARS2, NARS2, PARS2, QARS, RARS2, SARS2, TARS2, VARS2, WARS2, YARS2.",
+    "services_offered": [],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "Muscular Dystrophy Association",
+    "org_url": "https://www.mda.org/",
+    "disease_name": [
+      "Leigh syndrome"
+    ],
+    "disease_category": [
+      "Muscular Dystrophies"
+    ],
+    "serves_people_with": "muscular dystrophies and provides expert directories.",
+    "services_offered": [
+      {
+        "type": "List of Experts",
+        "url": "https://www.mda.org/care/mda-care-centers"
+      }
+    ],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "People Against Leigh Syndrome",
+    "org_url": "https://www.peopleagainstleighs.org/",
+    "disease_name": [
+      "Leigh syndrome"
+    ],
+    "disease_category": [],
+    "serves_people_with": "Leigh syndrome",
+    "services_offered": [
+      {
+        "type": "Patient registry",
+        "url": "https://www.peopleagainstleighs.org/registry"
+      }
+    ],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "MitoAction",
+    "org_url": "https://www.mitoaction.org/",
+    "disease_name": [
+      "Leigh syndrome"
+    ],
+    "disease_category": [
+      "Mitochondrial"
+    ],
+    "serves_people_with": "mitochondrial diseases",
+    "services_offered": [
+      {
+        "type": "List of Experts",
+        "url": "https://www.mitoaction.org/doctors/"
+      }
+    ],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "United Mitochondrial Disease Foundation",
+    "org_url": "https://www.umdf.org/",
+    "disease_name": [
+      "Leigh syndrome"
+    ],
+    "disease_category": [
+      "Mitochondrial"
+    ],
+    "serves_people_with": "mitochondrial diseases",
+    "services_offered": [
+      {
+        "type": "List of Experts",
+        "url": "https://www.umdf.org/find-a-doctor/"
+      },
+      {
+        "type": "Patient registry",
+        "url": "https://www.umdf.org/mitoshare-registry/"
+      }
+    ],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "Every Life Foundation",
+    "org_url": null,
+    "disease_name": [],
+    "disease_category": [
+      "Rare"
+    ],
+    "serves_people_with": "rare diseases",
+    "services_offered": [],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "Genetic Alliance",
+    "org_url": "https://everylifefoundation.org/",
+    "disease_name": [],
+    "disease_category": [
+      "Rare"
+    ],
+    "serves_people_with": "rare diseases",
+    "services_offered": [],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "Global Genes",
+    "org_url": "https://globalgenes.org/",
+    "disease_name": [],
+    "disease_category": [
+      "Rare"
+    ],
+    "serves_people_with": "rare diseases",
+    "services_offered": [],
+    "country": "US",
+    "language": "en"
+  },
+  {
+    "org_name": "National Organization for Rare Disorders (NORD)",
+    "org_url": "https://rarediseases.org/",
+    "disease_name": [],
+    "disease_category": [
+      "Rare"
+    ],
+    "serves_people_with": "rare diseases",
+    "services_offered": [],
+    "country": "US",
+    "language": "en"
+  }
+]

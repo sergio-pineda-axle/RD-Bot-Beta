@@ -1,0 +1,326 @@
+{
+  "Name": "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome",
+  "DiseaseID__c": "GARD:0010522",
+  "id": 10522,
+  "encodedName": "congenital-cataract-progressive-muscular-hypotonia-hearing-loss-developmental-delay-syndrome",
+  "IsDeleted": false,
+  "Disease_Name_Full__c": "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome",
+  "Xref_IDs__c": "ORPHA:330054; C567769; C2751320; OMIM:613076; MEDGEN:416525",
+  "USA_Estimate__c": "1,000",
+  "World_Estimate__c": "1 to 8,000",
+  "Description_Source__c": "ORPHA:330054",
+  "Disease_Description__c": "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome is a rare, genetic, mitochondrial myopathy disorder characterized by congenital cataract, progressive muscular hypotonia that particularly affects the lower limbs, reduced deep tendon reflexes, sensorineural hearing loss, global development delay and lactic acidosis. Muscle biopsy reveals reduced complex I, II and IV respiratory chain activity.",
+  "GARD_Name__c": "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome",
+  "GARD_Synonym__c": "congenital cataract-progressive muscular hypotonia-deafness-developmental delay syndrome; myopathy, mitochondrial progressive, with congenital cataract and developmental delay",
+  "Curated_Disease_Description_Source__c": "ORPHA:330054",
+  "Curated_Disease_Description__c": "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome is a rare, genetic, mitochondrial myopathy disorder characterized by congenital cataract, progressive muscular hypotonia that particularly affects the lower limbs, reduced deep tendon reflexes, sensorineural hearing loss, global development delay and lactic acidosis. Muscle biopsy reveals reduced complex I, II and IV respiratory chain activity.",
+  "Curated_USA_Estimate_Source__c": null,
+  "Curated_USA_Estimate__c": "1,000",
+  "Age_at_Onset_Snippet_Text__c": "as a Newborn and as an Infant",
+  "SourceID__c": "ORPHA:330054",
+  "Deprecated__c": "No",
+  "Disease_Concept_Type__c": "Rare Disease Entity",
+  "MONDO_ID__c": "MONDO:0013116",
+  "ORPHANET_ID__c": "ORPHA:330054",
+  "Replaced_By_ID__c": null,
+  "Display_Spanish_Disease_Name__c": "Síndrome de catarata congénita-hipotonía muscular progresiva-hipoacusia-retraso del desarrollo",
+  "Spanish_Description_Source__c": null,
+  "Spanish_Description__c": null,
+  "Spanish_Disease_Name__c": "Síndrome de catarata congénita-hipotonía muscular progresiva-hipoacusia-retraso del desarrollo",
+  "Spanish_GARD_Synonym__c": "Síndrome de catarata congénita-hipotonía muscular progresiva-sordera-retraso del desarrollo",
+  "Category_Linearization__c": "ORPHA:98006",
+  "icd10_id__c": null,
+  "mesh_id__c": null,
+  "omim_id__c": null,
+  "snomed_id__c": null,
+  "umls_id__c": null,
+  "GARD_Disease__c": [
+    {
+      "Curated_Disease_Description__c": "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome is a rare, genetic, mitochondrial myopathy disorder characterized by congenital cataract, progressive muscular hypotonia that particularly affects the lower limbs, reduced deep tendon reflexes, sensorineural hearing loss, global development delay and lactic acidosis. Muscle biopsy reveals reduced complex I, II and IV respiratory chain activity.",
+      "Curated_Disease_Description_Source__c": "ORPHA:330054",
+      "GARD_Synonym__c": "congenital cataract-progressive muscular hypotonia-deafness-developmental delay syndrome; myopathy, mitochondrial progressive, with congenital cataract and developmental delay",
+      "Name": "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental de",
+      "Curated_USA_Estimate__c": "1,000",
+      "estimateUsa": "1,000"
+    }
+  ],
+  "GARD_Disease_Tag__c": [
+    {
+      "Tag_Name__c": "Genetics",
+      "Tag_Category__c": "Cause;Disease Category;Specialist",
+      "category_description": "Genetic diseases affect the DNA, or genetic instructions, which directs how tissues, organs, and body systems function.",
+      "curated_tag_name": "Genetic diseases"
+    },
+    {
+      "Tag_Name__c": "Neurology",
+      "Tag_Category__c": "Disease Category;Specialist",
+      "category_description": "Neurological diseases affect the brain, spinal cord, cranial nerves, autonomic nerves, or other peripheral nerves.",
+      "curated_tag_name": "Neurological diseases"
+    },
+    {
+      "Tag_Name__c": "Ophthalmology",
+      "Tag_Category__c": "Specialist"
+    },
+    {
+      "Tag_Name__c": "Inborn Errors of Metabolism",
+      "Tag_Category__c": "Cause;Disease Category",
+      "category_description": "Inherited metabolic diseases, or inborn errors of metabolism, are a group of genetic diseases that affect the ability of the body's cells to convert food into energy.",
+      "curated_tag_name": "Inherited metabolic diseases"
+    },
+    {
+      "Tag_Name__c": "Congenital Abnormality",
+      "Tag_Category__c": "Disease Category",
+      "category_description": "Birth defects are structural changes present at birth that can affect almost any part of the body, including how the body looks, works, or both.",
+      "curated_tag_name": "Birth defects"
+    },
+    {
+      "Tag_Name__c": "Mitochondrial",
+      "Tag_Category__c": "Account;Cause;Disease Category",
+      "category_description": "Mitochondrial diseases are a group of genetic diseases that affect the ability of the body's cells to make energy.",
+      "curated_tag_name": "Mitochondrial diseases"
+    },
+    {
+      "Tag_Name__c": "Otolaryngology",
+      "Tag_Category__c": "Specialist"
+    },
+    {
+      "Tag_Name__c": "Pediatrics",
+      "Tag_Category__c": "Specialist"
+    }
+  ],
+  "Age_At_Onset__c": [
+    {
+      "Age_At_Onset__c": "Infancy",
+      "Provided_By__c": "ORPHA:330054"
+    },
+    {
+      "Age_At_Onset__c": "Neonatal",
+      "Provided_By__c": "ORPHA:330054"
+    }
+  ],
+  "Diagnosis__c": [
+    {
+      "Type__c": "GTR",
+      "Curie__c": "MEDGEN:C2751320"
+    }
+  ],
+  "External_Identifier_Disease__c": [
+    {
+      "URL__c": "https://raresource.nih.gov/diseases/filter/0010522",
+      "Source__c": "RareSource"
+    },
+    {
+      "URL__c": "https://www.orpha.net/en/disease/detail/330054",
+      "Source__c": "MONDO:0013116",
+      "Xref_ID__c": "ORPHA:330054"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/mesh/C567769",
+      "Source__c": "MONDO:0013116",
+      "Xref_ID__c": "C567769"
+    },
+    {
+      "URL__c": "https://uts.nlm.nih.gov/uts/umls/concept/C2751320",
+      "Source__c": "MONDO:0013116",
+      "Xref_ID__c": "C2751320"
+    },
+    {
+      "URL__c": "https://www.omim.org/entry/613076",
+      "Source__c": "MONDO:0013116",
+      "Xref_ID__c": "OMIM:613076"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/medgen/?term=416525",
+      "Source__c": "MONDO:0013116",
+      "Xref_ID__c": "MEDGEN:416525"
+    }
+  ],
+  "GARD_Disease_Gene__c": [
+    {
+      "GeneSymbol__c": "GFER",
+      "Gene_Type__c": "protein-coding gene",
+      "Causal_Gene__c": true
+    }
+  ],
+  "Inheritance__c": [
+    "Autosomal recessive"
+  ],
+  "GARD_Disease_Feature__c": [
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "An abnormal buildup of lactic acid in the body, leading to acidification of the blood and other bodily fluids.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0003128",
+        "HPO_Synonym__c": "Hyperlacticacidemia; Increased lactate in body; Lactic acidemia; Lacticacidemia; Lacticacidosis",
+        "HPO_Name__c": "Lactic acidosis",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A form of nystagmus in which the eyeball makes rotary motions around the axis.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001583",
+        "HPO_Synonym__c": "Rotatory Nystagmus",
+        "HPO_Name__c": "Rotary nystagmus",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Underdevelopment of the corpus callosum.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0002079",
+        "HPO_Synonym__c": "Corpus callosum hypoplasia; Hypoplasia of corpus callosum; Hypoplastic corpus callosum; Underdevelopment of part of brain called corpus callosum",
+        "HPO_Name__c": "Hypoplasia of the corpus callosum",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Hypotonia is an abnormally low muscle tone (the amount of tension or resistance to movement in a muscle). Even when relaxed, muscles have a continuous and passive partial contraction which provides some resistance to passive stretching. Hypotonia thus manifests as diminished resistance to passive stretching. Hypotonia is not the same as muscle weakness, although the two conditions can co-exist.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001252",
+        "HPO_Synonym__c": "Low muscle tone; Low or weak muscle tone; Muscle hypotonia; Muscular hypotonia",
+        "HPO_Name__c": "Hypotonia",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A cataract that occurs congenitally as the result of a developmental defect, in contrast to the majority of cataracts that occur in adulthood as the result of degenerative changes of the lens.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000519",
+        "HPO_Synonym__c": "Bilateral congenital cataracts; Cataract, congenital; Clouding of the lens of the eye at birth; Congenital cataract; Congenital cataracts; Congenital cataracts, bilateral",
+        "HPO_Name__c": "Developmental cataract",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A delay in the achievement of motor or mental milestones in the domains of development of a child, including motor skills, speech and language, cognitive skills, and social and emotional skills. This term should only be used to describe children younger than five years of age.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001263",
+        "HPO_Synonym__c": "Delayed cognitive development; Delayed development; Delayed developmental milestones; Delayed intellectual development; Delayed milestones; Delayed psychomotor development; Developmental delay; Developmental delay in early childhood; Developmental delay, global; Developmental retardation; GDD; Lack of psychomotor development; Motor and developmental delay; Motormental retardation; Psychomotor delay; Psychomotor development deficiency; Psychomotor development failure; Psychomotor developmental delay; Retarded development; Retarded mental development; Retarded psychomotor development",
+        "HPO_Name__c": "Global developmental delay",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Diminution of tendon reflexes, which is an invariable sign of peripheral nerve disease.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001315",
+        "HPO_Synonym__c": "Absent or decreased deep tendon reflexes; Decreased deep tendon reflexes; Decreased tendon reflexes; Decreased to absent deep tendon reflexes; Decreased/absent deep tendon reflexes; Depressed tendon reflexes; Diminished deep tendon reflexes; Diminished or absent deep tendon reflexes; Diminished or absent tendon reflexes; Hypoactive to absent deep tendon reflexes; Impaired tendon reflexes; Reduced/absent deep tendon reflexes; Weak or absent deep tendon reflexes",
+        "HPO_Name__c": "Reduced tendon reflexes",
+        "Feature_System__c": "Nervous System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Abnormally reduced concentration of ferritin, a ubiquitous intracellular protein that stores iron, in the blood.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0012343",
+        "HPO_Synonym__c": "Decreased plasma ferritin; Decreased serum ferritin; Low ferritin level; Reduced serum ferritin",
+        "HPO_Name__c": "Decreased circulating ferritin concentration",
+        "HPO_Feature_Type__c": "Lab"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "Muscular hypotonia (abnormally low muscle tone) affecting the musculature of the trunk and with onset in infancy.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0009062",
+        "HPO_Synonym__c": "Hypotonia, axial, in infancy",
+        "HPO_Name__c": "Infantile axial hypotonia",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "An anomalous amount of protein present in or on the surface of muscle fibers. This feature may be appreciate upon immunohistochemical investigation of muscle biopsy tissue.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0030089",
+        "HPO_Name__c": "Abnormal muscle fiber protein expression",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "Feature__r": {
+        "HPO_Description__c": "Reduced strength of muscles.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0001324",
+        "HPO_Synonym__c": "Muscle weakness; Muscular weakness",
+        "HPO_Name__c": "Muscle weakness",
+        "Feature_System__c": "Musculoskeletal System",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "A progressive form of sensorineural hearing impairment.",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000408",
+        "HPO_Synonym__c": "Bilateral progressive sensorineural hearing loss; Hearing loss, progressive sensorineural; Hearing loss, sensorineural, bilateral, progressive; Hearing loss, sensorineural, progressive; Progressive bilateral sensorineural hearing loss; Sensorineural hearing loss, progressive",
+        "HPO_Name__c": "Progressive sensorineural hearing impairment",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    },
+    {
+      "Provided_By__c": "ORPHA:330054",
+      "HPO_Frequency__c": "Frequent (30-79%)",
+      "Feature__r": {
+        "HPO_Description__c": "The upper eyelid margin is positioned 3 mm or more lower than usual and covers the superior portion of the iris (objective); or, the upper lid margin obscures at least part of the pupil (subjective).",
+        "HPO_Feature_URL__c": "https://hpo.jax.org/browse/term/HP:0000508",
+        "HPO_Synonym__c": "Blepharoptosis; Drooping upper eyelid; Eyelid ptosis; Palpebral ptosis",
+        "HPO_Name__c": "Ptosis",
+        "HPO_Feature_Type__c": "Symptom"
+      }
+    }
+  ],
+  "tags": {
+    "Cause": [
+      "Genetics",
+      "Inborn Errors of Metabolism",
+      "Mitochondrial"
+    ],
+    "Disease Category": [
+      "Genetics",
+      "Neurology",
+      "Inborn Errors of Metabolism",
+      "Congenital Abnormality",
+      "Mitochondrial"
+    ],
+    "Specialist": [
+      "Genetics",
+      "Neurology",
+      "Ophthalmology",
+      "Otolaryngology",
+      "Pediatrics"
+    ],
+    "Account": [
+      "Mitochondrial"
+    ]
+  },
+  "synonyms": [
+    "congenital cataract-progressive muscular hypotonia-deafness-developmental delay syndrome",
+    " myopathy, mitochondrial progressive, with congenital cataract and developmental delay"
+  ]
+}

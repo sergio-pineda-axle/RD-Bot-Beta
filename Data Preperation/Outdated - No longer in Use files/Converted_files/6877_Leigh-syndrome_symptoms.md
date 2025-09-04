@@ -1,0 +1,431 @@
+# Symptoms
+
+The types of symptoms experienced, and their intensity, may vary among people with this disease. Your experience may be different from others. Consult your healthcare team for more information.
+
+The following describes the symptom(s) associated with this disease along with the corresponding body system(s), description, synonyms, and frequency:
+
+#### Renal tubular dysfunction
+* Synonyms: Abnormal function of filtrating structures in kidney; Renal tubular defect
+* Description: Abnormal function of the renal tubule. The basic functional unit of the kidney, the nephron, consists of a renal corpuscle attached to a renal tubule, with roughly 0.8 to 1.5 nephrons per adult kidney. The functions of the renal tubule include reabsorption of water, electrolytes, glucose, and amino acids and secretion of substances such as uric acid.
+* Body System Category(-ies): genitourinary system
+* Frequency: Uncommon (<1-4%)
+
+#### Optic atrophy
+* Synonyms: Optic nerve atrophy; Optic-nerve degeneration
+* Description: Atrophy of the optic nerve. Optic atrophy results from the death of the retinal ganglion cell axons that comprise the optic nerve and manifesting as a pale optic nerve on fundoscopy.
+* Body System Category(-ies): eye
+* Frequency: Frequent (30-79%)
+
+#### Spasticity
+* Synonyms: Involuntary muscle stiffness, contraction, or spasm; Muscle spasticity; Muscular spasticity
+* Description: A motor disorder characterized by a velocity-dependent increase in tonic stretch reflexes with increased muscle tone, exaggerated (hyperexcitable) tendon reflexes.
+* Body System Category(-ies): nervous system; musculoskeletal system
+* Frequency: Occasional (5-29%)
+
+#### Spastic diplegia
+* Synonyms: Spastic diparesis; Spastic diplegic
+* Description: Spasticity (neuromuscular hypertonia) primarily in the muscles of the legs, hips, and pelvis.
+* Body System Category(-ies): nervous system; musculoskeletal system
+* Frequency: Occasional (5-29%)
+
+#### Cerebellar atrophy
+* Synonyms: Atrophic cerebellum; Degeneration of cerebellum
+* Description: Cerebellar atrophy is defined as a cerebellum with initially normal structures, in a posterior fossa with normal size, which displays enlarged fissures (interfolial spaces) in comparison to the foliae secondary to loss of tissue. Cerebellar atrophy implies irreversible loss of tissue and result from an ongoing progressive disease until a final stage is reached or a single injury, e.g. an intoxication or infectious event.
+* Body System Category(-ies): nervous system
+* Frequency: Uncommon (<1-4%)
+
+#### Dystonia
+* Synonyms: Dystonic movements
+* Description: An abnormally increased muscular tone that causes fixed abnormal postures. There is a slow, intermittent twisting motion that leads to exaggerated turning and posture of the extremities and trunk.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Failure to thrive
+* Synonyms: Faltering weight; Postnatal failure to thrive; Weight faltering
+* Description: Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm.
+* Body System Category(-ies): Growth
+* Frequency: Frequent (30-79%)
+
+#### Intrauterine growth retardation
+* Synonyms: In utero growth retardation; Intrauterine growth failure; Intrauterine growth restriction; Intrauterine growth retardation, IUGR; Intrauterine retardation; IUGR; Prenatal growth deficiency; Prenatal growth failure; Prenatal growth retardation; Prenatal onset growth retardation; Prenatal-onset growth retardation; Small for gestational age infant
+* Description: An abnormal restriction of fetal growth with fetal weight below the tenth percentile for gestational age.
+* Body System Category(-ies): Growth
+* Frequency: Uncommon (<1-4%)
+
+#### Ventricular septal defect
+* Synonyms: Hole in heart wall separating two lower heart chambers; Ventricular septal defects; Ventriculoseptal defect; VSD
+* Description: A hole between the two bottom chambers (ventricles) of the heart. The defect is centered around the most superior aspect of the ventricular septum.
+* Body System Category(-ies): cardiovascular system
+* Frequency: Uncommon (<1-4%)
+
+#### Hypertrophic cardiomyopathy
+* Synonyms: Cardiomyopathy, hypertrophic; Enlarged and thickened heart muscle; HCM
+* Description: Hypertrophic cardiomyopathy (HCM) is defined by the presence of increased ventricular wall thickness or mass in the absence of loading conditions (hypertension, valve disease) sufficient to cause the observed abnormality.
+* Body System Category(-ies): cardiovascular system
+* Frequency: Frequent (30-79%)
+
+#### Abnormality of extrapyramidal motor function
+* Synonyms: Extrapyramidal dysfunction; Extrapyramidal signs; Extrapyramidal symptoms; Extrapyramidal syndrome; Extrapyramidal tract signs
+* Description: A neurological condition related to lesions of the basal ganglia leading to typical abnormalities including akinesia (inability to initiate changes in activity and perform volitional movements rapidly and easily), muscular rigidity (continuous contraction of muscles with constant resistance to passive movement), chorea (widespread arrhythmic movements of a forcible, rapid, jerky, and restless nature), athetosis (inability to sustain the muscles of the fingers, toes, or other group of muscles in a fixed position), and akathisia (inability to remain motionless).
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Hypoplasia of the corpus callosum
+* Synonyms: Corpus callosum hypoplasia; Hypoplasia of corpus callosum; Hypoplastic corpus callosum; Underdevelopment of part of brain called corpus callosum
+* Description: Underdevelopment of the corpus callosum.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Gliosis
+* Synonyms: Cerebral gliosis; Excess astrocytes in brain
+* Description: Gliosis is the focal proliferation of glial cells in the central nervous system.
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)
+
+#### Leukodystrophy
+* Synonyms: Degeneration of white matter of brain
+* Description: Leukodystrophy refers to deterioration of white matter of the brain resulting from degeneration of myelin sheaths in the CNS. Their basic defect is directly related to the synthesis and maintenance of myelin membranes. Symmetric white matter involvement at MRI is a typical finding in patients with leukodystrophies.
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)
+
+#### Sensory axonal neuropathy
+* Synonyms: Axonal sensory neuropathy
+* Description: An axonal neuropathy of peripheral sensory nerves.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Involuntary movements
+* Synonyms: Involuntary movements; Involuntary muscle contractions
+* Description: Involuntary contractions of muscle leading to involuntary movements of extremities, neck, trunk, or face.
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)
+
+#### Diffuse spongiform leukoencephalopathy
+* Synonyms: Not specified
+* Description: Not specified
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)
+
+#### Severe viral infection
+* Synonyms: Not specified
+* Description: An unusually severe viral infection.
+* Body System Category(-ies): immune system
+* Frequency: Frequent (30-79%)
+
+#### Abnormality of movement
+* Synonyms: Abnormality of movement; Movement disorder; Unusual movement
+* Description: An abnormality of movement with a neurological basis characterized by changes in coordination and speed of voluntary movements.
+* Body System Category(-ies): nervous system
+* Frequency: Very frequent (80-99%)
+
+#### Neuronal loss in basal ganglia
+* Synonyms: Not specified
+* Description: A reduction in the number of nerve cells in the basal ganglia.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Macrotia
+* Synonyms: Large ears; Large pinnae
+* Description: Median longitudinal ear length greater than two standard deviations above the mean and median ear width greater than two standard deviations above the mean (objective); or, apparent increase in length and width of the pinna (subjective).
+* Body System Category(-ies): ear
+* Frequency: Uncommon (<1-4%)
+
+#### Ophthalmoplegia
+* Synonyms: Eye muscle paralysis; Paralysis of extraocular eye movement
+* Description: Paralysis of one or more extraocular muscles that are responsible for eye movements.
+* Body System Category(-ies): eye
+* Frequency: Frequent (30-79%)
+
+#### Nystagmus
+* Synonyms: Involuntary, rapid, rhythmic eye movements
+* Description: Rhythmic, involuntary oscillations of one or both eyes related to abnormality in fixation, conjugate gaze, or vestibular mechanisms.
+* Body System Category(-ies): eye
+* Frequency: Occasional (5-29%)
+
+#### Eczema
+* Synonyms: Eczema
+* Description: Eczema is a form of dermatitis. The term eczema is broadly applied to a range of persistent skin conditions and can be related to a number of underlying conditions. Manifestations of eczema can include dryness and recurring skin rashes with redness, skin edema, itching and dryness, crusting, flaking, blistering, cracking, oozing, or bleeding.
+* Body System Category(-ies): immune system; integument
+* Frequency: Uncommon (<1-4%)
+
+#### Agenesis of corpus callosum
+* Synonyms: Absence of corpus callosum; Absent corpus callosum; Agenesis of the corpus callosum; Callosal agenesis; Corpus callosum agenesis; Dysplastic or absent corpus callosum
+* Description: Absence of the corpus callosum as a result of the failure of the corpus callosum to develop, which can be the result of a failure in any one of the multiple steps of callosal development including cellular proliferation and migration, axonal growth or glial patterning at the midline.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Growth delay
+* Synonyms: Delayed growth; Growth deficiency; Growth delay; Growth failure; Growth retardation; Poor growth; Retarded growth
+* Description: A deficiency or slowing down of growth pre- and postnatally.
+* Body System Category(-ies): Growth
+* Frequency: Frequent (30-79%)
+
+#### Congestive heart failure
+* Synonyms: Cardiac failure; Cardiac failures; Cardiac insufficiency; CHF; Chronic heart failure; Heart failure
+* Description: The presence of an abnormality of cardiac function that is responsible for the failure of the heart to pump blood at a rate that is commensurate with the needs of the tissues or a state in which abnormally elevated filling pressures are required for the heart to do so. Heart failure is frequently related to a defect in myocardial contraction.
+* Body System Category(-ies): cardiovascular system
+* Frequency: Occasional (5-29%)
+
+#### Anemia
+* Synonyms: Anaemia; Low number of red blood cells or hemoglobin
+* Description: A reduction in erythrocytes volume or hemoglobin concentration.
+* Body System Category(-ies): blood and blood-forming tissues
+* Frequency: Occasional (5-29%)
+
+#### Abnormal facial shape
+* Synonyms: Abnormal facial shape; Abnormal morphology of the face; Distinctive facies; Dysmorphic facial features; Dysmorphic facies; Facial dysmorphism; Unusual facial appearance; Unusual facies
+* Description: An abnormal morphology (form) of the face or its components.
+* Body System Category(-ies): head or neck
+* Frequency: Uncommon (<1-4%)
+
+#### Dysphagia
+* Synonyms: Difficulty swallowing; Poor swallowing; Swallowing difficulties; Swallowing difficulty
+* Description: Difficulty in swallowing.
+* Body System Category(-ies): nervous system; digestive system
+* Frequency: Occasional (5-29%)
+
+#### Chorea
+* Synonyms: Choreic movements; Choreiform movements
+* Description: Chorea (Greek for 'dance') refers to widespread arrhythmic involuntary movements of a forcible, jerky and restless fashion. It is a random-appearing sequence of one or more discrete involuntary movements or movement fragments. Movements appear random because of variability in timing, duration or location. Each movement may have a distinct start and end. However, movements may be strung together and thus may appear to flow randomly from one muscle group to another. Chorea can involve the trunk, neck, face, tongue, and extremities.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Status epilepticus
+* Synonyms: Prolonged seizure; Repeated seizure without recovery; Repeated seizures without recovery between them
+* Description: Status epilepticus is a type of prolonged seizure resulting either from the failure of the mechanisms responsible for seizure termination or from the initiation of mechanisms which lead to abnormally prolonged seizures (after time point t1). It is a condition that can have long-term consequences (after time point t2), including neuronal death, neuronal injury, and alteration of neuronal networks, depending on the type and duration of seizures.
+* Body System Category(-ies): nervous system
+* Frequency: Uncommon (<1-4%)
+
+#### Distal muscle weakness
+* Synonyms: Distal limb muscle weakness; Distal limb weakness; Distal muscular weakness; Distal paresis; Muscle weakness, distal; Muscle weakness, distal limbs, due to neuronopathy; Weakness of distal muscles; Weakness of outermost muscles
+* Description: Reduced strength of the musculature of the distal extremities.
+* Body System Category(-ies): musculoskeletal system
+* Frequency: Occasional (5-29%)
+
+#### Increased CSF lactate
+* Synonyms: Hyperlactatorachia; Increased cerebrospinal fluid lactate; Increased CSF lactic acid
+* Description: Increased concentration of lactate in the cerebrospinal fluid.
+* Body System Category(-ies): nervous system; metabolism/homeostasis
+* Frequency: Very frequent (80-99%)
+
+#### Psychomotor retardation
+* Synonyms: Motormental retardation; Psychomotor impairment; Psychomotor slowing
+* Description: Not specified
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)
+
+#### Encephalomalacia
+* Synonyms: Cerebral softening
+* Description: Encephalomalacia is the softening or loss of brain tissue after cerebral infarction, cerebral ischemia, infection, craniocerebral trauma, or other injury.
+* Body System Category(-ies): nervous system
+* Frequency: Uncommon (<1-4%)
+
+#### Nephrotic syndrome
+* Synonyms: Nephrosis
+* Description: Nephrotic syndrome is a collection of findings resulting from glomerular dysfunction with an increase in glomerular capillary wall permeability associated with pronounced proteinuria. Nephrotic syndrome refers to the constellation of clinical findings that result from severe renal loss of protein, with Proteinuria and hypoalbuminemia, edema, and hyperlipidemia.
+* Body System Category(-ies): genitourinary system
+* Frequency: Uncommon (<1-4%)
+
+#### Ptosis
+* Synonyms: Blepharoptosis; Drooping upper eyelid; Eyelid ptosis
+* Description: The upper eyelid margin is positioned 3 mm or more lower than usual and covers the superior portion of the iris (objective); or, the upper lid margin obscures at least part of the pupil (subjective).
+* Body System Category(-ies): eye
+* Frequency: Occasional (5-29%)
+
+#### Abnormality of the skeletal system
+* Synonyms: Abnormality of the skeletal system; Skeletal abnormalities; Skeletal anomalies
+* Description: An abnormality of the skeletal system.
+* Body System Category(-ies): musculoskeletal system
+* Frequency: Occasional (5-29%)
+
+#### Ataxia
+* Synonyms: Cerebellar ataxia
+* Description: Cerebellar ataxia refers to ataxia due to dysfunction of the cerebellum. This causes a variety of elementary neurological deficits including asynergy (lack of coordination between muscles, limbs and joints), dysmetria (lack of ability to judge distances that can lead to under- or overshoot in grasping movements), and dysdiadochokinesia (inability to perform rapid movements requiring antagonizing muscle groups to be switched on and off repeatedly).
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Choreoathetosis
+* Synonyms: Choreoathetoid movements
+* Description: Involuntary movements characterized by both athetosis (inability to sustain muscles in a fixed position) and chorea (widespread jerky arrhythmic movements).
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Hepatic failure
+* Synonyms: Liver failure
+* Description: Not specified
+* Body System Category(-ies): digestive system
+* Frequency: Occasional (5-29%)
+
+#### Neutropenia
+* Synonyms: Low blood neutrophil count; Low neutrophil count; Peripheral neutropenia
+* Description: An abnormally low number of neutrophils in the peripheral blood.
+* Body System Category(-ies): immune system; blood and blood-forming tissues
+* Frequency: Uncommon (<1-4%)
+
+#### Progressive neurologic deterioration
+* Synonyms: Neurologic deterioration; Neurologic deterioration, progressive; Progressive mental deterioration; Progressive neurodegeneration; Worsening neurological symptoms
+* Description: Not specified
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)
+
+#### Hyperkinetic movements
+* Synonyms: Hyperkinesia; Hyperkinesis; Muscle spasms
+* Description: Motor hyperactivity with excessive movement of muscles of the body as a whole.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Olivopontocerebellar atrophy
+* Synonyms: Olivopontocerebellar degeneration
+* Description: Neuronal degeneration in the cerebellum, pontine nuclei, and inferior olivary nucleus.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Respiratory failure
+* Synonyms: Respiratory failure
+* Description: A severe form of respiratory insufficiency characterized by inadequate gas exchange such that the levels of oxygen or carbon dioxide cannot be maintained within normal limits.
+* Body System Category(-ies): respiratory system
+* Frequency: Occasional (5-29%)
+
+#### Myopathy
+* Synonyms: Muscle tissue disease; Myopathic changes
+* Description: A disorder of muscle unrelated to impairment of innervation or neuromuscular junction.
+* Body System Category(-ies): musculoskeletal system
+* Frequency: Occasional (5-29%)
+
+#### Peripheral neuropathy
+* Synonyms: Peripheral nerve damage; Peripheral neuritis
+* Description: Peripheral neuropathy is a general term for any disorder of the peripheral nervous system. The main clinical features used to classify peripheral neuropathy are distribution, type (mainly demyelinating versus mainly axonal), duration, and course.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Frontal hirsutism
+* Synonyms: Hairy forehead; Hirsute forehead
+* Description: Excessive amount of hair growth on forehead.
+* Body System Category(-ies): head or neck; integument
+* Frequency: Uncommon (<1-4%)
+
+#### Feeding difficulties
+* Synonyms: Feeding difficulties; Feeding problems; Poor feeding
+* Description: Impaired ability to eat related to problems gathering food and getting ready to suck, chew, or swallow it.
+* Body System Category(-ies): digestive system
+* Frequency: Frequent (30-79%)
+
+#### Infantile spasms
+* Synonyms: Not specified
+* Description: Infantile spasms represent a subset of \"epileptic spasms\". Infantile Spasms are epileptic spasms starting in the first year of life (infancy).
+* Body System Category(-ies): nervous system
+* Frequency: Uncommon (<1-4%)
+
+#### Abnormal dentate nucleus morphology
+* Synonyms: Abnormality of the dentate nucleus
+* Description: An abnormality of the dentate nucleus.
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)
+
+#### High forehead
+* Synonyms: High forehead
+* Description: An abnormally increased height of the forehead.
+* Body System Category(-ies): head or neck
+* Frequency: Uncommon (<1-4%)
+
+#### Sensorineural hearing impairment
+* Synonyms: Hearing loss, sensorineural; Sensorineural deafness; Sensorineural hearing loss
+* Description: A type of hearing impairment in one or both ears related to an abnormal functionality of the cochlear nerve.
+* Body System Category(-ies): ear
+* Frequency: Frequent (30-79%)
+
+#### Cataract
+* Synonyms: Cataracts; Clouding of the lens of the eye; Cloudy lens; Lens opacities; Lens opacity
+* Description: A cataract is an opacity or clouding that develops in the crystalline lens of the eye or in its capsule.
+* Body System Category(-ies): eye
+* Frequency: Uncommon (<1-4%)
+
+#### Abnormality of the optic nerve
+* Synonyms: optic nerve abnormalities; Optic nerve issue
+* Description: Abnormality of the optic nerve.
+* Body System Category(-ies): eye
+* Frequency: Frequent (30-79%)
+
+#### Hypertrichosis
+* Synonyms: Not specified
+* Description: Hypertrichosis is increased hair growth that is abnormal in quantity or location.
+* Body System Category(-ies): integument
+* Frequency: Frequent (30-79%)
+
+#### Seizure
+* Synonyms: Epileptic seizure; Seizures
+* Description: A seizure is an intermittent abnormality of nervous system physiology characterised by a transient occurrence of signs and/or symptoms due to abnormal excessive or synchronous neuronal activity in the brain.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Muscle weakness
+* Synonyms: Muscle weakness; Muscular weakness
+* Description: Reduced strength of muscles.
+* Body System Category(-ies): musculoskeletal system
+* Frequency: Occasional (5-29%)
+
+#### Alopecia
+* Synonyms: Hair loss
+* Description: A noncongenital process of hair loss, which may progress to partial or complete baldness.
+* Body System Category(-ies): integument
+* Frequency: Uncommon (<1-4%)
+
+#### Athetosis
+* Synonyms: Athetoid movements; Involuntary writhing movements; Involuntary writhing movements in fingers, hands, toes, and feet
+* Description: A slow, continuous, involuntary writhing movement that prevents maintenance of a stable posture. Athetosis involves continuous smooth movements that appear random and are not composed of recognizable sub-movements or movement fragments. In contrast to chorea, in athetosis, the same regions of the body are repeatedly involved. Athetosis may worsen with attempts at movement of posture, but athetosis can also occur at rest.
+* Body System Category(-ies): nervous system
+* Frequency: Occasional (5-29%)
+
+#### Developmental regression
+* Synonyms: Loss of developmental milestones; Mental deterioration in childhood; Neurodevelopmental regression; Psychomotor regression; Psychomotor regression beginning in infancy; Psychomotor regression in infants; Psychomotor regression, progressive
+* Description: Loss of developmental skills, as manifested by loss of developmental milestones.
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)
+
+#### Upper motor neuron dysfunction
+* Synonyms: Corticospinal tract dysfunction; Pyramidal tract dysfunction
+* Description: A functional anomaly of the upper motor neuron. The upper motor neurons are neurons of the primary motor cortex which project to the brainstem and spinal chord via the corticonuclear, corticobulbar and corticospinal (pyramidal) tracts. They are involved in control of voluntary movements. Dysfunction leads to weakness, impairment of fine motor movements, spasticity, hyperreflexia and abnormal pyramidal signs.
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)
+
+#### Gastrointestinal dysmotility
+* Synonyms: GI dysmotility
+* Description: Abnormal intestinal contractions, such as spasms and intestinal paralysis, related to the loss of the ability of the gut to coordinate muscular activity because of endogenous or exogenous causes.
+* Body System Category(-ies): digestive system
+* Frequency: Uncommon (<1-4%)
+
+#### Abnormal pattern of respiration
+* Synonyms: Abnormal pattern of respiration; Abnormal respiratory patterns; Unusual breathing patterns
+* Description: An anomaly of the rhythm or depth of breathing.
+* Body System Category(-ies): respiratory system
+* Frequency: Occasional (5-29%)
+
+#### Multiple joint contractures
+* Synonyms: Not specified
+* Description: Not specified
+* Body System Category(-ies): musculoskeletal system
+* Frequency: Occasional (5-29%)
+
+#### Skeletal muscle atrophy
+* Synonyms: Amyotrophy; Amyotrophy involving the extremities; Muscle atrophy; Muscle atrophy, neurogenic; Muscle degeneration; Muscle hypotrophy; Muscle wasting; Muscular atrophy; Neurogenic muscle atrophy; Neurogenic muscle atrophy, especially in the lower limbs; Neurogenic muscular atrophy
+* Description: The presence of skeletal muscular atrophy (which is also known as amyotrophy).
+* Body System Category(-ies): musculoskeletal system
+* Frequency: Occasional (5-29%)
+
+#### Infantile muscular hypotonia
+* Synonyms: Decreased muscle tone in infant; Hypotonia early; Hypotonia in infancy; Hypotonia, early; Infantile hypotonia
+* Description: Muscular hypotonia (abnormally low muscle tone) manifesting in infancy.
+* Body System Category(-ies): musculoskeletal system
+* Frequency: Very frequent (80-99%)
+
+#### Dyskinesia
+* Synonyms: Disorder of involuntary muscle movements; Dyskinesis
+* Description: A movement disorder which consists of effects including diminished voluntary movements and the presence of involuntary movements.
+* Body System Category(-ies): nervous system
+* Frequency: Uncommon (<1-4%)
+
+#### Brain imaging abnormality
+* Synonyms: Abnormal brain imaging
+* Description: An anomaly of metabolism or structure of the brain identified by imaging.
+* Body System Category(-ies): nervous system
+* Frequency: Frequent (30-79%)

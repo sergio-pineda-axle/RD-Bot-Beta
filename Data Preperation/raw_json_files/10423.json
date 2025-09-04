@@ -1,0 +1,205 @@
+{
+  "Name": "Coenzyme q10 deficiency",
+  "DiseaseID__c": "GARD:0010423",
+  "id": 10423,
+  "encodedName": "coenzyme-q10-deficiency",
+  "IsDeleted": false,
+  "Disease_Name_Full__c": "Coenzyme q10 deficiency",
+  "Xref_IDs__c": "C1843920; MEDGEN:334528; 724575009; ORPHA:35656; C142083; DOID:0050730; C564403; OMIMPS:607426",
+  "USA_Estimate__c": null,
+  "World_Estimate__c": null,
+  "Description_Source__c": "MONDO:0018151",
+  "Disease_Description__c": "A genetically heterogeneous condition, typically inherited in an autosomal recessive fashion, characterized by coenzyme Q10 deficiency.",
+  "GARD_Name__c": "Coenzyme q10 deficiency",
+  "GARD_Synonym__c": "coenzyme Q10 deficiency disease; coenzyme Q10 deficiency, primary; CoQ10 deficiency",
+  "Curated_Disease_Description_Source__c": "MONDO:0018151",
+  "Curated_Disease_Description__c": "A genetically heterogeneous condition, typically inherited in an autosomal recessive fashion, characterized by coenzyme Q10 deficiency.",
+  "Curated_USA_Estimate_Source__c": null,
+  "Curated_USA_Estimate__c": null,
+  "Age_at_Onset_Snippet_Text__c": "at any time in life",
+  "SourceID__c": "ORPHA:35656",
+  "Deprecated__c": "No",
+  "Disease_Concept_Type__c": "Rare Disease Grouping",
+  "MONDO_ID__c": "MONDO:0018151",
+  "ORPHANET_ID__c": "ORPHA:35656",
+  "Replaced_By_ID__c": null,
+  "Display_Spanish_Disease_Name__c": "Deficiencia de coenzima Q10",
+  "Spanish_Description_Source__c": null,
+  "Spanish_Description__c": null,
+  "Spanish_Disease_Name__c": "Deficiencia de coenzima Q10",
+  "Spanish_GARD_Synonym__c": "Deficiencia de CoQ10",
+  "Category_Linearization__c": "ORPHA:68367",
+  "icd10_id__c": null,
+  "mesh_id__c": null,
+  "omim_id__c": null,
+  "snomed_id__c": null,
+  "umls_id__c": null,
+  "GARD_Disease__c": [
+    {
+      "Curated_Disease_Description__c": "A genetically heterogeneous condition, typically inherited in an autosomal recessive fashion, characterized by coenzyme Q10 deficiency.",
+      "Curated_Disease_Description_Source__c": "MONDO:0018151",
+      "GARD_Synonym__c": "coenzyme Q10 deficiency disease; coenzyme Q10 deficiency, primary; CoQ10 deficiency",
+      "Name": "Coenzyme q10 deficiency",
+      "estimateUsa": ""
+    }
+  ],
+  "Organization_Supported_Diseases__c": [
+    {
+      "Account_Name__c": "MitoAction",
+      "Website__c": "https://www.mitoaction.org/"
+    },
+    {
+      "Account_Name__c": "United Mitochondrial Disease Foundation",
+      "Website__c": "https://www.umdf.org"
+    }
+  ],
+  "GARD_Disease_Tag__c": [
+    {
+      "Tag_Name__c": "Genetics",
+      "Tag_Category__c": "Cause;Disease Category;Specialist",
+      "category_description": "Genetic diseases affect the DNA, or genetic instructions, which directs how tissues, organs, and body systems function.",
+      "curated_tag_name": "Genetic diseases"
+    },
+    {
+      "Tag_Name__c": "Neurology",
+      "Tag_Category__c": "Disease Category;Specialist",
+      "category_description": "Neurological diseases affect the brain, spinal cord, cranial nerves, autonomic nerves, or other peripheral nerves.",
+      "curated_tag_name": "Neurological diseases"
+    },
+    {
+      "Tag_Name__c": "Inborn Errors of Metabolism",
+      "Tag_Category__c": "Cause;Disease Category",
+      "category_description": "Inherited metabolic diseases, or inborn errors of metabolism, are a group of genetic diseases that affect the ability of the body's cells to convert food into energy.",
+      "curated_tag_name": "Inherited metabolic diseases"
+    },
+    {
+      "Tag_Name__c": "Mitochondrial",
+      "Tag_Category__c": "Account;Cause;Disease Category",
+      "category_description": "Mitochondrial diseases are a group of genetic diseases that affect the ability of the body's cells to make energy.",
+      "curated_tag_name": "Mitochondrial diseases"
+    },
+    {
+      "Tag_Name__c": "Peripheral Neuropathy",
+      "Tag_Category__c": "Account",
+      "curated_tag_name": "Peripheral neuropathy"
+    },
+    {
+      "Tag_Name__c": "Epilepsy",
+      "Tag_Category__c": "Account",
+      "curated_tag_name": "Epilepsy"
+    },
+    {
+      "Tag_Name__c": "Pediatrics",
+      "Tag_Category__c": "Specialist"
+    }
+  ],
+  "Age_At_Onset__c": [
+    {
+      "Age_At_Onset__c": "All ages",
+      "Provided_By__c": "ORPHA:35656"
+    }
+  ],
+  "Diagnosis__c": [
+    {
+      "Type__c": "GTR",
+      "Curie__c": "MEDGEN:C1843920"
+    }
+  ],
+  "External_Identifier_Disease__c": [
+    {
+      "URL__c": "https://uts.nlm.nih.gov/uts/umls/concept/C1843920",
+      "Source__c": "MONDO:0018151",
+      "Xref_ID__c": "C1843920"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/medgen/?term=334528",
+      "Source__c": "MONDO:0018151",
+      "Xref_ID__c": "MEDGEN:334528"
+    },
+    {
+      "URL__c": "https://browser.ihtsdotools.org/?perspective=full&conceptId1=724575009",
+      "Source__c": "MONDO:0018151",
+      "Xref_ID__c": "724575009"
+    },
+    {
+      "URL__c": "https://www.orpha.net/en/disease/detail/35656",
+      "Source__c": "MONDO:0018151",
+      "Xref_ID__c": "ORPHA:35656"
+    },
+    {
+      "URL__c": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C142083",
+      "Source__c": "MONDO:0018151",
+      "Xref_ID__c": "C142083"
+    },
+    {
+      "URL__c": "https://www.ebi.ac.uk/ols4/ontologies/doid/classes?obo_id=DOID%3A0050730",
+      "Source__c": "MONDO:0018151",
+      "Xref_ID__c": "DOID:0050730"
+    },
+    {
+      "URL__c": "https://www.ncbi.nlm.nih.gov/mesh/C564403",
+      "Source__c": "MONDO:0018151",
+      "Xref_ID__c": "C564403"
+    },
+    {
+      "URL__c": "https://www.omim.org/phenotypicSeries/PS607426",
+      "Source__c": "MONDO:0018151",
+      "Xref_ID__c": "OMIMPS:607426"
+    }
+  ],
+  "Inheritance__c": [
+    "Autosomal recessive"
+  ],
+  "Related_Disease__c": [
+    {
+      "attributes": {
+        "type": "Related_Disease__c",
+        "url": "/services/data/v49.0/sobjects/Related_Disease__c/a14t0000003n2rAAAQ"
+      },
+      "Related_Disease_Name__c": "Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia",
+      "Related_Disease_ID__c": "GARD:0009283",
+      "Relationship_Type__c": "Child",
+      "GARD_Disease__c": "a05t0000001XM4gAAG",
+      "Id": "a14t0000003n2rAAAQ"
+    },
+    {
+      "attributes": {
+        "type": "Related_Disease__c",
+        "url": "/services/data/v49.0/sobjects/Related_Disease__c/a14t0000003n2rBAAQ"
+      },
+      "Related_Disease_Name__c": "Autosomal recessive ataxia due to ubiquinone deficiency",
+      "Related_Disease_ID__c": "GARD:0010294",
+      "Relationship_Type__c": "Child",
+      "GARD_Disease__c": "a05t0000001XM4gAAG",
+      "Id": "a14t0000003n2rBAAQ"
+    }
+  ],
+  "tags": {
+    "Cause": [
+      "Genetics",
+      "Inborn Errors of Metabolism",
+      "Mitochondrial"
+    ],
+    "Disease Category": [
+      "Genetics",
+      "Neurology",
+      "Inborn Errors of Metabolism",
+      "Mitochondrial"
+    ],
+    "Specialist": [
+      "Genetics",
+      "Neurology",
+      "Pediatrics"
+    ],
+    "Account": [
+      "Mitochondrial",
+      "Peripheral Neuropathy",
+      "Epilepsy"
+    ]
+  },
+  "synonyms": [
+    "coenzyme Q10 deficiency disease",
+    " coenzyme Q10 deficiency, primary",
+    " CoQ10 deficiency"
+  ]
+}

@@ -1,0 +1,1138 @@
+{
+  "Leigh syndrome": [
+    {
+      "symptom_name": "Decreased activity of mitochondrial complex I",
+      "synonyms": [],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Infantile spasms",
+      "synonyms": [],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Nystagmus",
+      "synonyms": [
+        "Involuntary, rapid, rhythmic eye movements"
+      ],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Macrotia",
+      "synonyms": [
+        "Large ears",
+        "Large pinnae"
+      ],
+      "body_systems": [],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Abnormal circulating enzyme concentration or activity",
+      "synonyms": [],
+      "body_systems": [],
+      "frequency": "Very frequent (80-99%)",
+      "frequency_rank": 1
+    },
+    {
+      "symptom_name": "Increased circulating lactate concentration",
+      "synonyms": [
+        "Increased blood lactate",
+        "Increased serum lactate"
+      ],
+      "body_systems": [],
+      "frequency": "Very frequent (80-99%)",
+      "frequency_rank": 1
+    },
+    {
+      "symptom_name": "Intrauterine growth retardation",
+      "synonyms": [
+        "In utero growth retardation",
+        "Intrauterine growth failure",
+        "Intrauterine growth restriction",
+        "Intrauterine growth retardation, IUGR",
+        "Intrauterine retardation",
+        "IUGR",
+        "Prenatal growth deficiency",
+        "Prenatal growth failure",
+        "Prenatal growth retardation",
+        "Prenatal onset growth retardation",
+        "Prenatal-onset growth retardation",
+        "Small for gestational age infant"
+      ],
+      "body_systems": [],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Congestive heart failure",
+      "synonyms": [
+        "Cardiac failure",
+        "Cardiac failures",
+        "Cardiac insufficiency",
+        "CHF",
+        "Chronic heart failure",
+        "Heart failure"
+      ],
+      "body_systems": [
+        "Cardiovascular System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Increased CSF lactate",
+      "synonyms": [
+        "Hyperlactatorachia",
+        "Increased cerebrospinal fluid lactate",
+        "Increased CSF lactic acid"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Very frequent (80-99%)",
+      "frequency_rank": 1
+    },
+    {
+      "symptom_name": "Neutropenia",
+      "synonyms": [
+        "Low blood neutrophil count",
+        "Low neutrophil count",
+        "Peripheral neutropenia"
+      ],
+      "body_systems": [
+        "Immune System",
+        "Blood and Blood-Forming Tissue"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Lacticaciduria",
+      "synonyms": [
+        "High urine lactic acid levels",
+        "Increased urine lactate"
+      ],
+      "body_systems": [],
+      "frequency": "Very frequent (80-99%)",
+      "frequency_rank": 1
+    },
+    {
+      "symptom_name": "Peripheral neuropathy",
+      "synonyms": [
+        "Peripheral nerve damage",
+        "Peripheral neuritis"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Infantile muscular hypotonia",
+      "synonyms": [
+        "Decreased muscle tone in infant",
+        "Hypotonia early",
+        "Hypotonia in infancy",
+        "Hypotonia, early",
+        "Infantile hypotonia"
+      ],
+      "body_systems": [
+        "Musculoskeletal System"
+      ],
+      "frequency": "Very frequent (80-99%)",
+      "frequency_rank": 1
+    },
+    {
+      "symptom_name": "Spastic diplegia",
+      "synonyms": [
+        "Spastic diparesis",
+        "Spastic diplegic"
+      ],
+      "body_systems": [
+        "Nervous System",
+        "Musculoskeletal System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Athetosis",
+      "synonyms": [
+        "Athetoid movements",
+        "Involuntary writhing movements",
+        "Involuntary writhing movements in fingers, hands, toes, and feet"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "High forehead",
+      "synonyms": [
+        "High forehead"
+      ],
+      "body_systems": [],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Abnormal thalamic MRI signal intensity",
+      "synonyms": [],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Respiratory failure",
+      "synonyms": [
+        "Respiratory failure"
+      ],
+      "body_systems": [
+        "Respiratory system"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Ophthalmoplegia",
+      "synonyms": [
+        "Eye muscle paralysis",
+        "Paralysis of extraocular eye movement"
+      ],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Distal muscle weakness",
+      "synonyms": [
+        "Distal limb muscle weakness",
+        "Distal limb weakness",
+        "Distal muscular weakness",
+        "Distal paresis",
+        "Muscle weakness, distal",
+        "Muscle weakness, distal limbs, due to neuronopathy",
+        "Weakness of distal muscles",
+        "Weakness of outermost muscles"
+      ],
+      "body_systems": [
+        "Musculoskeletal System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Feeding difficulties",
+      "synonyms": [
+        "Feeding difficulties",
+        "Feeding problems",
+        "Poor feeding"
+      ],
+      "body_systems": [
+        "Digestive System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Decreased activity of mitochondrial complex III",
+      "synonyms": [],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Ketoacidosis",
+      "synonyms": [],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Spasticity",
+      "synonyms": [
+        "Involuntary muscle stiffness, contraction, or spasm",
+        "Muscle spasticity",
+        "Muscular spasticity"
+      ],
+      "body_systems": [
+        "Nervous System",
+        "Musculoskeletal System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Abnormal dentate nucleus morphology",
+      "synonyms": [
+        "Abnormality of the dentate nucleus"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Elevated brain lactate level by MRS",
+      "synonyms": [],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Dyskinesia",
+      "synonyms": [
+        "Disorder of involuntary muscle movements",
+        "Dyskinesis"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Dystonia",
+      "synonyms": [
+        "Dystonic movements"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Choreoathetosis",
+      "synonyms": [
+        "Choreoathetoid movements"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Renal tubular dysfunction",
+      "synonyms": [
+        "Abnormal function of filtrating structures in kidney",
+        "Renal tubular defect"
+      ],
+      "body_systems": [],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Hypsarrhythmia",
+      "synonyms": [
+        "Hypsarrhythmia by EEG"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Global developmental delay",
+      "synonyms": [
+        "Delayed cognitive development",
+        "Delayed development",
+        "Delayed developmental milestones",
+        "Delayed intellectual development",
+        "Delayed milestones",
+        "Delayed psychomotor development",
+        "Developmental delay",
+        "Developmental delay in early childhood",
+        "Developmental delay, global",
+        "Developmental retardation",
+        "GDD",
+        "Lack of psychomotor development",
+        "Motor and developmental delay",
+        "Motormental retardation",
+        "Psychomotor delay",
+        "Psychomotor development deficiency",
+        "Psychomotor development failure",
+        "Psychomotor developmental delay",
+        "Retarded development",
+        "Retarded mental development",
+        "Retarded psychomotor development"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Hepatic failure",
+      "synonyms": [
+        "Liver failure"
+      ],
+      "body_systems": [
+        "Digestive System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Alopecia",
+      "synonyms": [
+        "Hair loss"
+      ],
+      "body_systems": [
+        "Skin System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Upper motor neuron dysfunction",
+      "synonyms": [
+        "Corticospinal tract dysfunction",
+        "Pyramidal tract dysfunction"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Neuronal loss in basal ganglia",
+      "synonyms": [],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Seizure",
+      "synonyms": [
+        "Epileptic seizure",
+        "Seizures"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Hypoglycemia",
+      "synonyms": [
+        "Hypoglycaemia",
+        "Low blood sugar"
+      ],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Abnormal optic nerve morphology",
+      "synonyms": [
+        "Abnormality of the optic nerve",
+        "optic nerve abnormalities",
+        "Optic nerve issue"
+      ],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Hyperkinetic movements",
+      "synonyms": [
+        "Hyperactive movements",
+        "Hyperkinesia",
+        "Hyperkinesis"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Decreased activity of mitochondrial complex II",
+      "synonyms": [],
+      "body_systems": [],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Gliosis",
+      "synonyms": [
+        "Cerebral gliosis",
+        "Excess astrocytes in brain"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Developmental regression",
+      "synonyms": [
+        "Loss of acquired milestones",
+        "Loss of developmental milestones",
+        "Loss of milestones",
+        "Mental deterioration in childhood",
+        "Neurodevelopmental regression",
+        "Psychomotor regression",
+        "Psychomotor regression beginning in infancy",
+        "Psychomotor regression in infants",
+        "Psychomotor regression, progressive"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Abnormality of the skeletal system",
+      "synonyms": [
+        "Abnormality of the skeletal system",
+        "Skeletal abnormalities",
+        "Skeletal anomalies"
+      ],
+      "body_systems": [
+        "Musculoskeletal System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Focal T2 hyperintense brainstem lesion",
+      "synonyms": [],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Sensorineural hearing impairment",
+      "synonyms": [
+        "Hearing loss, sensorineural",
+        "Sensorineural deafness",
+        "Sensorineural hearing loss"
+      ],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Progressive neurologic deterioration",
+      "synonyms": [
+        "Neurologic deterioration",
+        "Neurologic deterioration, progressive",
+        "Progressive mental deterioration",
+        "Progressive neurodegeneration",
+        "Worsening neurological symptoms"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Abnormal pattern of respiration",
+      "synonyms": [
+        "Abnormal pattern of respiration",
+        "Abnormal respiratory patterns",
+        "Unusual breathing patterns"
+      ],
+      "body_systems": [
+        "Respiratory system"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Decreased circulating biotinidase concentration",
+      "synonyms": [
+        "Decreased biotinidase level"
+      ],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Decreased activity of mitochondrial respiratory chain",
+      "synonyms": [],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Gastrointestinal dysmotility",
+      "synonyms": [
+        "GI dysmotility"
+      ],
+      "body_systems": [
+        "Digestive System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Skeletal muscle atrophy",
+      "synonyms": [
+        "Amyotrophy",
+        "Amyotrophy involving the extremities",
+        "Muscle atrophy",
+        "Muscle atrophy, neurogenic",
+        "Muscle degeneration",
+        "Muscle hypotrophy",
+        "Muscle wasting",
+        "Muscular atrophy",
+        "Neurogenic muscle atrophy",
+        "Neurogenic muscle atrophy, especially in the lower limbs",
+        "Neurogenic muscular atrophy"
+      ],
+      "body_systems": [
+        "Musculoskeletal System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Abnormality of movement",
+      "synonyms": [
+        "Abnormality of movement",
+        "Movement disorder",
+        "Unusual movement"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Very frequent (80-99%)",
+      "frequency_rank": 1
+    },
+    {
+      "symptom_name": "Olivopontocerebellar atrophy",
+      "synonyms": [
+        "Olivopontocerebellar degeneration"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "3-Methylglutaconic aciduria",
+      "synonyms": [
+        "3-Methylglutaconicaciduria"
+      ],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Generalized aminoaciduria",
+      "synonyms": [
+        "Generalized nonspecific aminoaciduria"
+      ],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Abnormal facial shape",
+      "synonyms": [
+        "Abnormal facial shape",
+        "Abnormal morphology of the face",
+        "Distinctive facies",
+        "Dysmorphic facial features",
+        "Dysmorphic facies",
+        "Facial dysmorphism",
+        "Unusual facial appearance",
+        "Unusual facies"
+      ],
+      "body_systems": [],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Involuntary movements",
+      "synonyms": [
+        "Involuntary movements",
+        "Involuntary muscle contractions"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Ptosis",
+      "synonyms": [
+        "Blepharoptosis",
+        "Drooping upper eyelid",
+        "Eyelid ptosis",
+        "Palpebral ptosis"
+      ],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Abnormal brainstem MRI signal intensity",
+      "synonyms": [],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Encephalomalacia",
+      "synonyms": [
+        "Cerebral softening"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Failure to thrive",
+      "synonyms": [
+        "Faltering weight",
+        "FTT",
+        "Postnatal failure to thrive",
+        "Weight faltering"
+      ],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Abnormal basal ganglia MRI signal intensity",
+      "synonyms": [],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Focal T2 hyperintense basal ganglia lesion",
+      "synonyms": [],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Renal tubular acidosis",
+      "synonyms": [
+        "Accumulation of acid in body due to kidney problem"
+      ],
+      "body_systems": [],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Leukodystrophy",
+      "synonyms": [
+        "Degeneration of white matter of brain"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Complex organic aciduria",
+      "synonyms": [],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Brain imaging abnormality",
+      "synonyms": [
+        "Abnormal brain imaging"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Hypoplasia of the corpus callosum",
+      "synonyms": [
+        "Corpus callosum hypoplasia",
+        "Hypoplasia of corpus callosum",
+        "Hypoplastic corpus callosum",
+        "Underdevelopment of part of brain called corpus callosum"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Decreased activity of the pyruvate dehydrogenase complex",
+      "synonyms": [
+        "Decreased activity of the PDH complex",
+        "Pyruvate dehydrogenase complex deficiency"
+      ],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Multiple joint contractures",
+      "synonyms": [],
+      "body_systems": [
+        "Musculoskeletal System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Sensory axonal neuropathy",
+      "synonyms": [
+        "Axonal sensory neuropathy"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Eczematoid dermatitis",
+      "synonyms": [
+        "Eczema"
+      ],
+      "body_systems": [
+        "Skin System",
+        "Immune System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Status epilepticus",
+      "synonyms": [
+        "Prolonged seizure",
+        "Repeated seizure without recovery",
+        "Repeated seizures without recovery between them"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Ataxia",
+      "synonyms": [
+        "Cerebellar ataxia"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Dysphagia",
+      "synonyms": [
+        "Difficulty swallowing",
+        "Poor swallowing",
+        "Swallowing difficulties",
+        "Swallowing difficulty"
+      ],
+      "body_systems": [
+        "Nervous System",
+        "Digestive System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Severe viral infection",
+      "synonyms": [],
+      "body_systems": [
+        "Immune System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Methylmalonic aciduria",
+      "synonyms": [
+        "High blood methylmalonic acid levels",
+        "Methymalonicaciduria"
+      ],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Nephrotic syndrome",
+      "synonyms": [
+        "Nephrosis"
+      ],
+      "body_systems": [],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Decreased activity of mitochondrial complex IV",
+      "synonyms": [],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Anemia",
+      "synonyms": [
+        "Anaemia",
+        "Low number of red blood cells or hemoglobin"
+      ],
+      "body_systems": [
+        "Blood and Blood-Forming Tissue"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Hypertrophic cardiomyopathy",
+      "synonyms": [
+        "Cardiomyopathy, hypertrophic",
+        "Enlarged and thickened heart muscle",
+        "HCM"
+      ],
+      "body_systems": [
+        "Cardiovascular System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Abnormality of extrapyramidal motor function",
+      "synonyms": [
+        "Extrapyramidal dysfunction",
+        "Extrapyramidal signs",
+        "Extrapyramidal symptoms",
+        "Extrapyramidal syndrome",
+        "Extrapyramidal tract signs"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Lactic acidosis",
+      "synonyms": [
+        "Hyperlacticacidemia",
+        "Increased lactate in body",
+        "Lactic acidemia",
+        "Lacticacidemia",
+        "Lacticacidosis"
+      ],
+      "body_systems": [],
+      "frequency": "Very frequent (80-99%)",
+      "frequency_rank": 1
+    },
+    {
+      "symptom_name": "Optic atrophy",
+      "synonyms": [
+        "Optic nerve atrophy",
+        "Optic-nerve degeneration"
+      ],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Frontal hirsutism",
+      "synonyms": [
+        "Hairy forehead",
+        "Hirsute forehead"
+      ],
+      "body_systems": [
+        "Skin System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Cerebellar atrophy",
+      "synonyms": [
+        "Atrophic cerebellum",
+        "Degeneration of cerebellum"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Diffuse spongiform leukoencephalopathy",
+      "synonyms": [],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Growth delay",
+      "synonyms": [
+        "Delayed growth",
+        "Growth deficiency",
+        "Growth delay",
+        "Growth failure",
+        "Growth retardation",
+        "Poor growth",
+        "Retarded growth"
+      ],
+      "body_systems": [],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Ethylmalonic aciduria",
+      "synonyms": [],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Agenesis of corpus callosum",
+      "synonyms": [
+        "Absence of corpus callosum",
+        "Absent corpus callosum",
+        "Agenesis of the corpus callosum",
+        "Callosal agenesis",
+        "Corpus callosum agenesis",
+        "Dysplastic or absent corpus callosum"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Myopathy",
+      "synonyms": [
+        "Muscle tissue disease",
+        "Myopathic changes"
+      ],
+      "body_systems": [
+        "Musculoskeletal System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Chorea",
+      "synonyms": [
+        "Choreic movements",
+        "Choreiform movements"
+      ],
+      "body_systems": [
+        "Nervous System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Ventricular septal defect",
+      "synonyms": [
+        "Hole in heart wall separating two lower heart chambers",
+        "Ventricular septal defects",
+        "Ventriculoseptal defect",
+        "VSD"
+      ],
+      "body_systems": [
+        "Cardiovascular System"
+      ],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Hyperalaninemia",
+      "synonyms": [
+        "Increased blood alanine",
+        "Increased serum alanine"
+      ],
+      "body_systems": [],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    },
+    {
+      "symptom_name": "Cataract",
+      "synonyms": [
+        "Cataracts",
+        "Clouding of the lens of the eye",
+        "Cloudy lens",
+        "Lens opacities",
+        "Lens opacity"
+      ],
+      "body_systems": [],
+      "frequency": "Uncommon (<1-4%)",
+      "frequency_rank": 4
+    },
+    {
+      "symptom_name": "Hypertrichosis",
+      "synonyms": [],
+      "body_systems": [
+        "Skin System"
+      ],
+      "frequency": "Frequent (30-79%)",
+      "frequency_rank": 2
+    },
+    {
+      "symptom_name": "Muscle weakness",
+      "synonyms": [
+        "Muscle weakness",
+        "Muscular weakness"
+      ],
+      "body_systems": [
+        "Musculoskeletal System"
+      ],
+      "frequency": "Occasional (5-29%)",
+      "frequency_rank": 3
+    }
+  ]
+}

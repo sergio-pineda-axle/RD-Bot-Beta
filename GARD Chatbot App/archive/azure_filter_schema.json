@@ -1,0 +1,23 @@
+{
+  "body_system": {
+    "index_field": "metadata_body_system",
+    "valid_values": ["Blood and Blood-Forming Tissue", "Cardiovascular System", "Digestive System", "Immune System", "Musculoskeletal System", "Nervous System"]
+  },
+  "symptom_name": {
+    "index_field": "metadata_symptom_name",
+    "valid_values": []
+  },
+  "inheritance": {
+    "index_field": "metadata_inheritance_pattern",
+    "valid_values": ["Autosomal Recessive Inheritance", "Mitochondrial Inheritance", "X-Linked Inheritance"]
+  },
+  "category": {
+    "index_field": "category",
+    "valid_values": []
+  },
+  "hpo_id": {
+    "index_field": "metadata_hpo_id",
+    "valid_values": []
+  }
+  
+}

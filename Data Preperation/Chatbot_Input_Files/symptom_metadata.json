@@ -1,0 +1,492 @@
+[
+  {
+    "symptom_name":"Decreased activity of mitochondrial complex I",
+    "definition":"A reduction in the activity of the mitochondrial respiratory chain complex I, which is part of the electron transport chain in mitochondria.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Infantile spasms",
+    "definition":"Infantile spasms represent a subset of \\\"epileptic spasms\\\". Infantile Spasms are epileptic spasms starting in the first year of life (infancy).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Nystagmus",
+    "definition":"Rhythmic, involuntary oscillations of one or both eyes related to abnormality in fixation, conjugate gaze, or vestibular mechanisms.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Macrotia",
+    "definition":"Median longitudinal ear length greater than two standard deviations above the mean and median ear width greater than two standard deviations above the mean (objective); or, apparent increase in length and width of the pinna (subjective).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormal circulating enzyme concentration or activity",
+    "definition":"Concentration or activity of an enzyme is above or below the limits of normal in the blood circulation.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Increased circulating lactate concentration",
+    "definition":"Abnormally increased level of blood lactate (2-hydroxypropanoic acid). Lactate is produced from pyruvate by lactate dehydrogenase during normal metabolism. The terms lactate and lactic acid are often used interchangeably but lactate (the component measured in blood) is strictly a weak base whereas lactic acid is the corresponding acid. Lactic acidosis is often used clinically to describe elevated lactate but should be reserved for cases where there is a corresponding acidosis (pH below 7.35).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Intrauterine growth retardation",
+    "definition":"An abnormal restriction of fetal growth with fetal weight below the tenth percentile for gestational age.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Congestive heart failure",
+    "definition":"The presence of an abnormality of cardiac function that is responsible for the failure of the heart to pump blood at a rate that is commensurate with the needs of the tissues or a state in which abnormally elevated filling pressures are required for the heart to do so. Heart failure is frequently related to a defect in myocardial contraction.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Increased CSF lactate",
+    "definition":"Increased concentration of lactate in the cerebrospinal fluid.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Neutropenia",
+    "definition":"An abnormally low number of neutrophils in the peripheral blood.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Lacticaciduria",
+    "definition":"An increased concentration of lactic acid in the urine.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Peripheral neuropathy",
+    "definition":"Peripheral neuropathy is a general term for any disorder of the peripheral nervous system. The main clinical features used to classify peripheral neuropathy are distribution, type (mainly demyelinating versus mainly axonal), duration, and course.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Infantile muscular hypotonia",
+    "definition":"Muscular hypotonia (abnormally low muscle tone) manifesting in infancy.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Spastic diplegia",
+    "definition":"Spasticity (neuromuscular hypertonia) primarily in the muscles of the legs, hips, and pelvis.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Athetosis",
+    "definition":"A slow, continuous, involuntary writhing movement that prevents maintenance of a stable posture. Athetosis involves continuous smooth movements that appear random and are not composed of recognizable sub-movements or movement fragments. In contrast to chorea, in athetosis, the same regions of the body are repeatedly involved. Athetosis may worsen with attempts at movement of posture, but athetosis can also occur at rest.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"High forehead",
+    "definition":"An abnormally increased height of the forehead.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormal thalamic MRI signal intensity",
+    "definition":"A deviation from normal signal on magnetic resonance imaging (MRI) of the thalamus.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Respiratory failure",
+    "definition":"A severe form of respiratory insufficiency characterized by inadequate gas exchange such that the levels of oxygen or carbon dioxide cannot be maintained within normal limits.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Ophthalmoplegia",
+    "definition":"Paralysis of one or more extraocular muscles that are responsible for eye movements.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Distal muscle weakness",
+    "definition":"Reduced strength of the musculature of the distal extremities.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Feeding difficulties",
+    "definition":"Impaired ability to eat related to problems gathering food and getting ready to suck, chew, or swallow it.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Decreased activity of mitochondrial complex III",
+    "definition":"A reduction in the activity of the mitochondrial respiratory chain complex III, which is part of the electron transport chain in mitochondria.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Ketoacidosis",
+    "definition":"Acidosis resulting from accumulation of ketone bodies.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Spasticity",
+    "definition":"A motor disorder characterized by a velocity-dependent increase in tonic stretch reflexes with increased muscle tone, exaggerated (hyperexcitable) tendon reflexes.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormal dentate nucleus morphology",
+    "definition":"An abnormality of the dentate nucleus.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Elevated brain lactate level by MRS",
+    "definition":"An increase in the level of lactate in the brain identified by magnetic resonance spectroscopy (MRS).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Dyskinesia",
+    "definition":"A movement disorder which consists of effects including diminished voluntary movements and the presence of involuntary movements.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Dystonia",
+    "definition":"An abnormally increased muscular tone that causes fixed abnormal postures. There is a slow, intermittent twisting motion that leads to exaggerated turning and posture of the extremities and trunk.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Choreoathetosis",
+    "definition":"Involuntary movements characterized by both athetosis (inability to sustain muscles in a fixed position) and chorea (widespread jerky arrhythmic movements).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Renal tubular dysfunction",
+    "definition":"Abnormal function of the renal tubule. The basic functional unit of the kidney, the nephron, consists of a renal corpuscle attached to a renal tubule, with roughly 0.8 to 1.5 nephrons per adult kidney. The functions of the renal tubule include reabsorption of water, electrolytes, glucose, and amino acids and secretion of substances such as uric acid.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Hypsarrhythmia",
+    "definition":"Hypsarrhythmia is abnormal interictal high amplitude waves and a background of irregular spikes. There is continuous (during wakefulness), high-amplitude (>200 Hz), generalized polymorphic slowing with no organized background and multifocal spikes demonstrated by electroencephalography (EEG).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Global developmental delay",
+    "definition":"A delay in the achievement of motor or mental milestones in the domains of development of a child, including motor skills, speech and language, cognitive skills, and social and emotional skills. This term should only be used to describe children younger than five years of age.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Hepatic failure",
+    "definition":"",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Alopecia",
+    "definition":"A noncongenital process of hair loss, which may progress to partial or complete baldness.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Upper motor neuron dysfunction",
+    "definition":"A functional anomaly of the upper motor neuron. The upper motor neurons are neurons of the primary motor cortex which project to the brainstem and spinal chord via the corticonuclear, corticobulbar and corticospinal (pyramidal) tracts. They are involved in control of voluntary movements. Dysfunction leads to weakness, impairment of fine motor movements, spasticity, hyperreflexia and abnormal pyramidal signs.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Neuronal loss in basal ganglia",
+    "definition":"A reduction in the number of nerve cells in the basal ganglia.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Seizure",
+    "definition":"A seizure is an intermittent abnormality of nervous system physiology characterized by a transient occurrence of signs and\/or symptoms due to abnormal excessive or synchronous neuronal activity in the brain.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Hypoglycemia",
+    "definition":"A decreased concentration of glucose in the blood.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormal optic nerve morphology",
+    "definition":"Abnormality of the optic nerve.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Hyperkinetic movements",
+    "definition":"Motor hyperactivity with excessive movement of muscles of the body as a whole.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Decreased activity of mitochondrial complex II",
+    "definition":"A reduction in the activity of the mitochondrial respiratory chain complex II, which is part of the electron transport chain in mitochondria.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Gliosis",
+    "definition":"Gliosis is the focal proliferation of glial cells in the central nervous system.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Developmental regression",
+    "definition":"Loss of developmental skills, as manifested by loss of developmental milestones.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormality of the skeletal system",
+    "definition":"An abnormality of the skeletal system.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Focal T2 hyperintense brainstem lesion",
+    "definition":"A lighter than expected T2 signal on magnetic resonance imaging (MRI) of the brainstem. This term refers to a localized hyperintensity affecting a particular region of the brainstem.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Sensorineural hearing impairment",
+    "definition":"A type of hearing impairment in one or both ears related to an abnormal functionality of the cochlear nerve.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Progressive neurologic deterioration",
+    "definition":"",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormal pattern of respiration",
+    "definition":"An anomaly of the rhythm or depth of breathing.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Decreased circulating biotinidase concentration",
+    "definition":"Concentration of biotinidase in the blood circulation below the lower limit of normal. Biotidinase is an enzyme that releases biotin from biocytin, the product of biotin-dependent carboxylases degradation.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Decreased activity of mitochondrial respiratory chain",
+    "definition":"Decreased activity of the mitochondrial respiratory chain.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Gastrointestinal dysmotility",
+    "definition":"Abnormal intestinal contractions, such as spasms and intestinal paralysis, related to the loss of the ability of the gut to coordinate muscular activity because of endogenous or exogenous causes.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Skeletal muscle atrophy",
+    "definition":"The presence of skeletal muscular atrophy (which is also known as amyotrophy).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormality of movement",
+    "definition":"An abnormality of movement with a neurological basis characterized by changes in coordination and speed of voluntary movements.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Olivopontocerebellar atrophy",
+    "definition":"Neuronal degeneration in the cerebellum, pontine nuclei, and inferior olivary nucleus.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"3-Methylglutaconic aciduria",
+    "definition":"An increased amount of 3-methylglutaconic acid in the urine.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Generalized aminoaciduria",
+    "definition":"An increased concentration of all types of amino acid in the urine.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormal facial shape",
+    "definition":"An abnormal morphology (form) of the face or its components.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Involuntary movements",
+    "definition":"Involuntary contractions of muscle leading to involuntary movements of extremities, neck, trunk, or face.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Ptosis",
+    "definition":"The upper eyelid margin is positioned 3 mm or more lower than usual and covers the superior portion of the iris (objective); or, the upper lid margin obscures at least part of the pupil (subjective).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormal brainstem MRI signal intensity",
+    "definition":"A deviation from normal signal on magnetic resonance imaging (MRI) of the brainstem.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Encephalomalacia",
+    "definition":"Encephalomalacia is the softening or loss of brain tissue after cerebral infarction, cerebral ischemia, infection, craniocerebral trauma, or other injury.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Failure to thrive",
+    "definition":"Failure to thrive (FTT) refers to a child whose physical growth is substantially below the norm.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormal basal ganglia MRI signal intensity",
+    "definition":"A deviation from normal signal on magnetic resonance imaging (MRI) of the basal ganglia.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Focal T2 hyperintense basal ganglia lesion",
+    "definition":"A lighter than expected T2 signal on magnetic resonance imaging (MRI) of the basal ganglia. This term refers to a localized hyperintensity affecting a particular region of the basal ganglia.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Renal tubular acidosis",
+    "definition":"Acidosis owing to malfunction of the kidney tubules with accumulation of metabolic acids and hyperchloremia, potentially leading to complications including hypokalemia, hypercalcinuria, nephrolithiasis and nephrocalcinosis.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Leukodystrophy",
+    "definition":"Leukodystrophy refers to deterioration of white matter of the brain resulting from degeneration of myelin sheaths in the CNS. Their basic defect is directly related to the synthesis and maintenance of myelin membranes. Symmetric white matter involvement at MRI is a typical finding in patients with leukodystrophies.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Complex organic aciduria",
+    "definition":"",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Brain imaging abnormality",
+    "definition":"An anomaly of metabolism or structure of the brain identified by imaging.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Hypoplasia of the corpus callosum",
+    "definition":"Underdevelopment of the corpus callosum.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Decreased activity of the pyruvate dehydrogenase complex",
+    "definition":"",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Multiple joint contractures",
+    "definition":"",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Sensory axonal neuropathy",
+    "definition":"An axonal neuropathy of peripheral sensory nerves.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Eczematoid dermatitis",
+    "definition":"Eczema is a form of dermatitis that is characterized by scaly, pruritic, erythematous lesions located on flexural surfaces.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Status epilepticus",
+    "definition":"Status epilepticus is a type of prolonged seizure resulting either from the failure of the mechanisms responsible for seizure termination or from the initiation of mechanisms which lead to abnormally prolonged seizures (after time point t1). It is a condition that can have long-term consequences (after time point t2), including neuronal death, neuronal injury, and alteration of neuronal networks, depending on the type and duration of seizures.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Ataxia",
+    "definition":"Cerebellar ataxia refers to ataxia due to dysfunction of the cerebellum. This causes a variety of elementary neurological deficits including asynergy (lack of coordination between muscles, limbs and joints), dysmetria (lack of ability to judge distances that can lead to under- or overshoot in grasping movements), and dysdiadochokinesia (inability to perform rapid movements requiring antagonizing muscle groups to be switched on and off repeatedly).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Dysphagia",
+    "definition":"Difficulty in swallowing.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Severe viral infection",
+    "definition":"An unusually severe viral infection.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Methylmalonic aciduria",
+    "definition":"Increased concentration of methylmalonic acid in the urine.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Nephrotic syndrome",
+    "definition":"Nephrotic syndrome is a collection of findings resulting from glomerular dysfunction with an increase in glomerular capillary wall permeability associated with pronounced proteinuria. Nephrotic syndrome refers to the constellation of clinical findings that result from severe renal loss of protein, with Proteinuria and hypoalbuminemia, edema, and hyperlipidemia.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Decreased activity of mitochondrial complex IV",
+    "definition":"A reduction in the activity of the mitochondrial respiratory chain complex IV, which is part of the electron transport chain in mitochondria.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Anemia",
+    "definition":"A reduction in erythrocytes volume or hemoglobin concentration.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Hypertrophic cardiomyopathy",
+    "definition":"Hypertrophic cardiomyopathy (HCM) is defined by the presence of increased ventricular wall thickness or mass in the absence of loading conditions (hypertension, valve disease) sufficient to cause the observed abnormality.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Abnormality of extrapyramidal motor function",
+    "definition":"A neurological condition related to lesions of the basal ganglia leading to typical abnormalities including akinesia (inability to initiate changes in activity and perform volitional movements rapidly and easily), muscular rigidity (continuous contraction of muscles with constant resistance to passive movement), chorea (widespread arrhythmic movements of a forcible, rapid, jerky, and restless nature), athetosis (inability to sustain the muscles of the fingers, toes, or other group of muscles in a fixed position), and akathisia (inability to remain motionless).",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Lactic acidosis",
+    "definition":"An abnormal buildup of lactic acid in the body, leading to acidification of the blood and other bodily fluids.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Optic atrophy",
+    "definition":"Atrophy of the optic nerve. Optic atrophy results from the death of the retinal ganglion cell axons that comprise the optic nerve and manifesting as a pale optic nerve on fundoscopy.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Frontal hirsutism",
+    "definition":"Excessive amount of hair growth on forehead.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Cerebellar atrophy",
+    "definition":"Cerebellar atrophy is defined as a cerebellum with initially normal structures, in a posterior fossa with normal size, which displays enlarged fissures (interfolial spaces) in comparison to the foliae secondary to loss of tissue. Cerebellar atrophy implies irreversible loss of tissue and result from an ongoing progressive disease until a final stage is reached or a single injury, e.g. an intoxication or infectious event.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Diffuse spongiform leukoencephalopathy",
+    "definition":"",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Growth delay",
+    "definition":"A deficiency or slowing down of growth pre- and postnatally.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Ethylmalonic aciduria",
+    "definition":"The concentration of ethylmalonic acid in the urine, normalized for urine concentration, is above the upper limit of normal.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Agenesis of corpus callosum",
+    "definition":"Absence of the corpus callosum as a result of the failure of the corpus callosum to develop, which can be the result of a failure in any one of the multiple steps of callosal development including cellular proliferation and migration, axonal growth or glial patterning at the midline.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Myopathy",
+    "definition":"A disorder of muscle unrelated to impairment of innervation or neuromuscular junction.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Chorea",
+    "definition":"Chorea (Greek for 'dance') refers to widespread arrhythmic involuntary movements of a forcible, jerky and restless fashion. It is a random-appearing sequence of one or more discrete involuntary movements or movement fragments. Movements appear random because of variability in timing, duration or location. Each movement may have a distinct start and end. However, movements may be strung together and thus may appear to flow randomly from one muscle group to another. Chorea can involve the trunk, neck, face, tongue, and extremities.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Ventricular septal defect",
+    "definition":"A hole between the two bottom chambers (ventricles) of the heart. The defect is centered around the most superior aspect of the ventricular septum.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Hyperalaninemia",
+    "definition":"An increased concentration of alanine in the blood.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Cataract",
+    "definition":"A cataract is an opacity or clouding that develops in the crystalline lens of the eye or in its capsule.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Hypertrichosis",
+    "definition":"Hypertrichosis is increased hair growth that is abnormal in quantity or location.",
+    "body_system":null
+  },
+  {
+    "symptom_name":"Muscle weakness",
+    "definition":"Reduced strength of muscles.",
+    "body_system":null
+  }
+]
