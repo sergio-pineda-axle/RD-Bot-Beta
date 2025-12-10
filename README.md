@@ -18,28 +18,28 @@ The GARD Chatbot is an AI-powered medical information assistant designed to prov
 
 ```
 ├── Data Preparation/
-│   ├── Chatbot_Input_Files/          # Processed GARD data in various formats
-│   │   ├── V1.3/                     # Initial data versions
-│   │   ├── V1.4/                     # Enhanced data with symptoms
-│   │   ├── V1.5/                     # Multi-language support
-│   │   ├── V2.0/                     # Enriched data with embeddings
-│   │   └── V2.2/                     # Latest data version
-│   ├── Convert-Original-GARD-json-files.py
-│   ├── json_to_html.py
-│   └── new_json_to_html.py
+│   ├── Chatbot_VectorStore_Files/    # Processed (normalized and embedded) GARD data 
+│   │   ├── V1.3/                     # Initial data version
+│   │   ├── V1.4/                    
+│   │   ├── V1.5/                     
+│   │   ├── V2.0/                     
+│   │   └── V2.2/                     # Latest data version of embedded files
 │
 ├── GARD Chatbot App/
-│   ├── gard_chatbot_app_V2-2.py      # Main Streamlit application
-│   ├── handlers/                      # Request handlers
-│   │   ├── code_assistant.py
-│   │   ├── orgs.py
-│   │   └── symptom.py
-│   ├── services/                      # Core services
+│   ├── gard_chatbot_app_V2-2.py                  # Main Chat application (including Streamlit UI)
+|   ├── data/
+|   |   ├── disease_symptom_map_automated.json    # Data map used by symptoms handler
+|   |   ├── organization_map_automated.json       # Data map used by patient organization handler
+│   ├── handlers/                                 
+│   │   ├── code_assistant.py                     # Code Interpreter function call logic
+│   │   ├── orgs.py                               # Various handlers for filtering/sorting patient org data
+│   │   └── symptom.py                            # Various handlers for filtering/sorting symptom data
+│   ├── services/                                 
 │   │   ├── classify_query.py
 │   │   └── plan_data_extraction.py
-│   ├── utils/                         # Utility functions
-│   ├── config/                        # Configuration files
-│   ├── prompts/                       # AI prompts and instructions
+│   ├── utils/                                    # Utility functions
+│   ├── config/                                   # Configuration files
+│   ├── prompts/                                  # AI prompts and instructions
 │   └── requirements.txt
 ```
 
@@ -125,11 +125,11 @@ The application uses environment variables for configuration. Key settings inclu
 
 ## Important Notes
 
-⚠️ **Medical Disclaimer**: This chatbot is designed for research and development purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals for medical concerns.
+**Medical Disclaimer**: This chatbot is designed for research and development purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals for medical concerns.
 
 ## Contributing
 
-This is an internal R&D project. For questions or contributions, please contact the development team.
+This is an internal R&D project. For questions or contributions, please contact sergio.pineda@axleinfo.com
 
 ## License
 
@@ -137,7 +137,7 @@ This project is proprietary and confidential. All rights reserved.
 
 ## Contact
 
-For questions about this project, please contact the development team at Axle Information Systems.
+For questions about this project, please contact sergio.pineda@axleinfo.com
 
 ---
 
