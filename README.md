@@ -18,29 +18,24 @@ The GARD Chatbot is an AI-powered medical information assistant designed to prov
 
 ```
 ├── Data Preparation/
-│   ├── Chatbot_VectorStore_Files/    # Processed (normalized and embedded) GARD data 
-│   │   ├── V1.3/                     # Initial data version
-│   │   ├── V1.4/                    
-│   │   ├── V1.5/                     
-│   │   ├── V2.0/                     
-│   │   └── V2.2/                     # Latest data version of embedded files
+│   ├── Chatbot_Input_Files/    # Processed (normalized and embedded) data files for vector retrieval 
+│   │   ├── ...                  
+│   │   └── V2.2/               # Latest data version of embedded files
+|   ├── Scripts                 # Scripts used to normalize and vectorize data
 │
 ├── GARD Chatbot App/
 │   ├── gard_chatbot_app_V2-2.py                  # Main Chat application (including Streamlit UI)
-|   ├── data/
-|   |   ├── disease_symptom_map_automated.json    # Data map used by symptoms handler
-|   |   ├── organization_map_automated.json       # Data map used by patient organization handler
+│   ├── handlers data prep/                       # Scripts used to create handler data maps
+|   ├── handler data/
+|   |   ├── disease_symptom_map_automated.json    # Data map used by symptoms & code interpreter handlers
+|   |   ├── organization_map_automated.json       # Data map used by patient organization & code interpreter handlers
 │   ├── handlers/                                 
-│   │   ├── code_assistant.py                     # Code Interpreter function call logic
-│   │   ├── orgs.py                               # Various handlers for filtering/sorting patient org data
-│   │   └── symptom.py                            # Various handlers for filtering/sorting symptom data
-│   ├── services/                                 
-│   │   ├── classify_query.py
-│   │   └── plan_data_extraction.py
+│   │   ├── code_assistant.py                     # Code Interpreter handler function
+│   │   ├── orgs.py                               # Various handler functions for filtering/sorting patient org data
+│   │   └── symptom.py                            # Various handler functions for filtering/sorting symptom data
+│   ├── prompts/                                  # GPT instruction prompts (classification call, code intepreter call, main chat call)
 │   ├── utils/                                    # Utility functions
-│   ├── config/                                   # Configuration files
-│   ├── prompts/                                  # AI prompts and instructions
-│   └── requirements.txt
+│   └── config/                                   # Chat configuration files
 ```
 
 ## Getting Started
